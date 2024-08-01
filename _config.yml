@@ -1,2 +1,4 @@
 theme: minima
 title: mxstn
+header_pages:
+  - about.md
