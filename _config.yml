@@ -1,5 +1,5 @@
-title: My blog
-description: My very nice blog
+title: mxstn
+description: blog of a mathematician and research engineer
 author: mxstn
 
 theme: minima
@@ -12,7 +12,7 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - _pages/frontpage.md
+#  - _pages/frontpage.md
   - _pages/about.md
   - _pages/archive.md
 
