@@ -2,7 +2,7 @@
 permalink: /
 layout: home
 title: Hey there!
-list_title: Blog posts
+list_title: Recent blog posts
 ---
 
 This is the personal blog of a mathematician and research engineer.

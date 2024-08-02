@@ -4,4 +4,4 @@ layout: page
 title: About
 ---
 
-blog of a mathematician and research engineer
+personal blog of a mathematician and research engineer
