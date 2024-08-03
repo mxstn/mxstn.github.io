@@ -5,4 +5,4 @@ title: Hey there!
 list_title: Recent blog posts
 ---
 
-This is the personal blog of a mathematician and research engineer.
+This is the personal blog of a mathematician, research engineer and alpinist.
