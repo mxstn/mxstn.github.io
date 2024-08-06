@@ -8,6 +8,10 @@
       inlineMath: [['$', '$'], ['\\(', '\\)']]
     }
   };
+  window.MathJax = {
+    loader: {load: ['[tex]/mathtools']},
+    tex: {packages: {'[+]': ['mathtools']}}
+  };
   </script>
   <script type="text/javascript" id="MathJax-script" async
     src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
@@ -19,7 +23,10 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
   \(
-\newcommand{\norm}[1]{\left\lVert #1 \right\rVert}
+%\newcommand{\norm}[1]{\left\lVert #1 \right\rVert}
+%\newcommand{\abs}[1]{\left\lvert #1 \right\rvert}
+\DeclarePairedDelimiter{\norm}{\lVert}{\rVert}
+\DeclarePairedDelimiter{\norm}{\lvert}{\rvert}
 \renewcommand{\d}{\mathop{}\!\mathrm{d}}
 \newcommand{\N}{\mathbb{N}}
 \newcommand{\Z}{\mathbb{Z}}
@@ -63,7 +70,6 @@
 \DeclareMathOperator{\sinc}{sinc}
 \DeclareMathOperator{\loc}{loc}
 \DeclareMathOperator{\sgn}{sgn}
-\newcommand{\abs}[1]{\left\lvert #1 \right\rvert}
 \newcommand{\gammadot}{\dot{\gamma}}
 \renewcommand{\H}{\mathcal{H}}
 \newcommand{\B}{\mathcal{B}}
