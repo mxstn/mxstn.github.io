@@ -10,5 +10,5 @@ mathematically, i am interested in geometry, dynamics, probability and their int
 
 as a research engineer, i am interested in machine learning methods.
 
-finally, as an alpinist, my interests are mountaineering, ridge scrambling, climbing and ski-touring with a focus on the eastern alps.
+finally, as a mountaineer, my interests are ridge scrambling, climbing and ski-touring with a focus on the eastern alps.
 
