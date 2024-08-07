@@ -7,7 +7,11 @@
 	loader: {load: ['[tex]/mathtools']},
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
-	  packages: {'[+]': ['mathtools']}
+	  packages: {'[+]': ['mathtools']},
+		macros: {
+      	  1: "{\\mathbbm{1}}",
+      	  bold: ["{\\bf #1}", 1]
+    	}
     }
   };
   </script>
@@ -20,4 +24,10 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+    \(
+  \DeclarePairedDelimiter{\norm}{\lVert}{\rVert}
+  \DeclarePairedDelimiter{\abs}{\lvert}{\rvert}
+  \renewcommand{\d}{\mathop{}\!\mathrm{d}}
+  \DeclareMathOperator{\E}{E}
+    \)
 </head>
