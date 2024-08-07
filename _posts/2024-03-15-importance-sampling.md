@@ -3,6 +3,47 @@ title: "importance sampling"
 date: 2024-03-15
 ---
 
+  \(
+\DeclarePairedDelimiter{\norm}{\lVert}{\rVert}
+\DeclarePairedDelimiter{\abs}{\lvert}{\rvert}
+\renewcommand{\d}{\mathop{}\!\mathrm{d}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\iso}{\cong}
+\newcommand{\<}{\langle}
+\newcommand{\e}{\mathrm{e}}
+\renewcommand{\>}{\rangle}
+\newcommand{\ext}{\mbox{\Large $\wedge$}}
+\DeclareMathOperator{\im}{im}
+\DeclareMathOperator{\id}{id}
+\DeclareMathOperator{\supp}{supp}
+\DeclareMathOperator{\rk}{rk}
+\DeclareMathOperator{\tr}{tr}
+\DeclareMathOperator{\E}{E}
+\DeclareMathOperator{\Var}{Var}
+\DeclareMathOperator{\Cov}{Cov}
+\DeclareMathOperator{\lin}{span}
+\newcommand{\Der}{\mathcal{D}} % tensor derivation D
+\newcommand{\Lie}{\mathcal{L}} % lie derivative L
+\newcommand{\leval}{\bigg{\rvert}} % large evaluation bar
+\newcommand{\eval}{\big{\rvert}} % evaluation bar
+\let\div\relax
+\DeclareMathOperator{\div}{div}
+\DeclareMathOperator{\grad}{grad}
+\renewcommand{\H}{\mathcal{H}}
+\newcommand{\B}{\mathcal{B}}
+\newcommand{\F}{\mathcal{F}}
+\newcommand{\D}{\mathcal{D}}
+\newcommand{\C}{\mathcal{C}}
+\renewcommand{\S}{\mathcal{S}}
+\newcommand{\imp}{\Rightarrow}
+\newcommand{\pv}{\text{pv}\,}
+\newcommand{\eps}{\varepsilon}
+\renewcommand{\1}{\mathbbm{1}}
+  \)
+
 want to numerically evaluate
 \begin{equation}
 	\E h(X) = \int h(x) f(x) \d x
