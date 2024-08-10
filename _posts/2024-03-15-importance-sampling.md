@@ -3,7 +3,7 @@ title: "importance sampling"
 date: 2024-03-15
 ---
 
-a basic probabilistic way to evaluate expectations (integrals) numerically is Monte Carlo, which is essentially just the law of large numbers.
+a basic probabilistic way to evaluate expectations (integrals) numerically is the usual Monte Carlo method, which is essentially just the law of large numbers.
 
 importance sampling can be thought of as a minor extension to this. say we want to numerically evaluate
 \begin{equation}
