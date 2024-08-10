@@ -5,13 +5,13 @@ title: About
 ---
 
 my name is Maximilian Steinert.
-typically i would describe myself as a mathematician, research engineer and alpinist.
+typically, i would describe myself as a mathematician, alpinist and research engineer.
 
-- mathematically, i am interested in geometry, dynamics, probability and their interactions. i hold a BSc and MSc 
+- mathematically, i am interested in geometry, dynamics, probability and their interactions.
 
-- as a research engineer, i am interested in developments in machine learning (using tools from the above three areas).
+- as an alpinist, my interests are mountaineering, climbing and ski-touring with a focus on the eastern alps.
 
-- finally, as an alpinist, my interests are mountaineering, climbing and ski-touring with a focus on the eastern alps.
+- finally, as a research engineer, i am interested in developments in machine learning (using tools from geometry/dynamics/probability).
 
 my current homebase is Innsbruck, Tyrol. 
 

@@ -1,5 +1,5 @@
 ---
-title: "general view on particle filtering"
+title: "my view on particle filtering"
 date: 2024-03-17
 ---
 
