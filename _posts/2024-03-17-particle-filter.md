@@ -61,8 +61,9 @@ how these samples are drawn or propagated depends on the underlying model/equati
 
 - update step: use importance (re)sampling. each $\xi^j_k$ gets an updated importance weight $w^j_k = \frac{w^j_{k-1} p(y_k\rvert \xi^j)}{\sum_j w^j_{k-1}p(y_k \rvert \xi^j)}$, then have 
 $$ \begin{align*}
-		\sum_{j=1}^N w^j_k h(\xi^j_k) \approx \int h(x_k) p(x_k\rvert y_0,\dots y_{k}) \d x_k
-	\end{align*} $$ in this sense $(\xi^j_k, w^j_k)$ represent the updated distribution $p(x_k\rvert y_0,\dots y_{k})$.
+		\sum_{j=1}^N w^j_k h(\xi^j_k) \approx \int h(x_k) p(x_k\rvert y_0,\dots y_{k}) \d x_k.
+	\end{align*} $$ 
+	 in this sense $(\xi^j_k, w^j_k)$ represent the updated distribution $p(x_k\rvert y_0,\dots y_{k})$.
 	 if the effective number of particles is below some prescribed threshold, then we can resample: draw $N$ particles from $\xi^j$ proportional to their weights, and initialize all weights to $1/N$ (which amounts to discarding the weights).
 - prediction step: if the model for the process $X$ is noiseless, then just need to propagate the samples through the transition function. otherwise need to sample from the transition $X_{k-1} \to X_k$.
 
