@@ -7,7 +7,9 @@ the first time i came in contact with particle filters was during an internship 
 
 the following are my personal notes on general particle filters, written 8 years after my internship at KUKA ;)
 
-aim: want to estimate the state of a discrete-time markov process $X_0, X_1, X_2, \dots$, where we do not observe each $X_k$ directly, but instead only observe $Y_k$. this is a hidden markov model, the process $X_k$ is hidden.
+## aim
+
+want to estimate the state of a discrete-time markov process $X_0, X_1, X_2, \dots$, where we do not observe each $X_k$ directly, but instead only observe $Y_k$. this is a hidden markov model, the process $X_k$ is hidden.
 
 such scenarios appear for example from dynamical systems, which are observed/measured at discrete timesteps:
 
@@ -23,6 +25,8 @@ $$  \begin{align*}
 	Y_k &= g(X_k) + V_k
 \end{align*} $$
 
+## set up
+
 to employ a particle filter we need to be able to sample from the transitions $X_{k-1} \to X_k$ represented by $p(x_{k} \rvert x_{k-1})$ and need to compute the likelihood of $Y_k$ given $X_k$, i.e. $p(y_k \rvert x_k)$.
 
 suppose we start with some initial distribution $p(x_0) \sim X_0$. want to estimate $ X_1 \rvert Y_0 \sim p(x_1 \rvert y_0)$ and so on. thus want to get from $p(x_k \rvert y_0, \dots y_{k-1})$ to $p(x_{k+1} \rvert y_0, \dots y_k)$. this is done in two steps:
@@ -35,10 +39,13 @@ $$ \begin{equation}
 - predict $X_{k+1}$: $$ \begin{equation}
 		p(x_{k+1} \rvert y_0, \dots y_{k}) = \int p(x_{k+1}\rvert x_k) p(x_k \rvert y_0, \dots y_{k}) \d x_k
 	\end{equation} $$
+	
+## approximate by monte carlo
 
 these computations can usually not get carried out directly. monte carlo enters the stage, to represent each distribution by samples, called particles.
 
-take $N$ weighted particles $\xi^{j}_{k}$ ($j = 1, \dots, N$) with weights $w^j_k$ to act as samples of $p(x_{k} \rvert y_0, \dots y_{k-1})$ for each $k$ in the sense of
+take $N$ weighted particles $\xi^j_k$ 
+($j = 1, \dots, N$) with weights $w^j_k$ to act as samples of $p(x_{k} \rvert y_0, \dots y_{k-1})$ for each $k$ in the sense of
 
 $$
 \begin{align*}
@@ -50,13 +57,13 @@ the weights before update step $k=0$ are initialized by $w^{j}_{-1} = 1/N$.
 
 how these samples are drawn or propagated depends on the underlying model/equations which determine the transition $X_k \to X_{k+1}$ and the likelihood of $Y_k$ given $X_k$. typically is the following:
 
-
 - update step: use importance (re)sampling. each $\xi^j_k$ gets an updated importance weight $w^j_k = \frac{w^j_{k-1} p(y_k\rvert \xi^j)}{\sum_j w^j_{k-1}p(y_k \rvert \xi^j)}$, then have 
 $$ \begin{align*}
 		\sum_{j=1}^N w^j_k h(\xi^j_k) \approx \int h(x_k) p(x_k\rvert y_0,\dots y_{k}) \d x_k
 	\end{align*} $$ in this sense $(\xi^j_k, w^j_k)$ represent the updated distribution $p(x_k\rvert y_0,\dots y_{k})$.\\[0.3cm] if the effective number of particles is below some prescribed threshold, then can resample: draw $N$ particles from $\xi^j$ proportional to their weights, and initialize all weights to $1/N$ (which amounts to discarding the weights).
 - prediction step: if the model for the process $X$ is noiseless, then just need to propagate the samples through the transition function. otherwise need to sample from the transition $X_{k-1} \to X_k$.
 
+## background on the two steps
 
 calculation why the update step should be this way: first have $w^j_{-1} = 1/N$ such that
 
