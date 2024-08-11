@@ -3,9 +3,9 @@ title: "my view on particle filtering"
 date: 2024-03-17
 ---
 
-the first time i came in contact with particle filters was during an internship at KUKA before i obtained my bachelor's degree. at that time, i was still missing the mathematical maturity to understand the theory behind particle filters. also, at that time, i had no interest at all in probability theory, and did not even take a course on it in my bachelor's!
+the first time i came in contact with particle filters was during an internship at KUKA before i obtained my bachelor's degree. at that time, i had no real interest in probability theory, and did not even take a course on it in my bachelor's. hence, back then, i struggled to understand the theory behind particle filters.
 
-the following are my personal notes on general particle filters, written 8 years after my internship at KUKA ;)
+the following are my personal notes on general particle filters, written long after my internship at KUKA.
 
 ## aim
 
