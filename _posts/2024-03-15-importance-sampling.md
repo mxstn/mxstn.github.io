@@ -1,5 +1,5 @@
 ---
-title: "importance sampling"
+title: "Importance sampling"
 date: 2024-03-15
 ---
 
