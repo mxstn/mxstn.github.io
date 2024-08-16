@@ -60,7 +60,7 @@ Before the update step $k=0$, we can initialize the weights by $w^{j}_{-1} = 1/N
 
 The idea is now to adjust the samples in each of the above two steps accordingly, such that they represent the desired distributions. How exactly these samples are drawn or propagated depends on the underlying model/equations which determine the transition $X_k \to X_{k+1}$ and the likelihood of $Y_k$ given $X_k$. Typically is the following:
 
-- Update step: use [importance (re)sampling](2024-03-15-importance-sampling). Each sample $\xi^j_k$ gets an updated importance weight $w^j_k = \frac{w^j_{k-1} p(y_k\rvert \xi^j)}{\sum_j w^j_{k-1}p(y_k \rvert \xi^j)}$, then we have 
+- Update step: use [importance (re)sampling](https://mxstn.github.io/2024/03/15/importance-sampling.html). Each sample $\xi^j_k$ gets an updated importance weight $w^j_k = \frac{w^j_{k-1} p(y_k\rvert \xi^j)}{\sum_j w^j_{k-1}p(y_k \rvert \xi^j)}$, then we have 
 $$ \begin{align*}
 		\sum_{j=1}^N w^j_k h(\xi^j_k) \approx \int h(x_k) p(x_k\rvert y_0,\dots y_{k}) \d x_k.
 	\end{align*} $$ 
@@ -70,7 +70,7 @@ $$ \begin{align*}
 
 ## Background on the update step
 
-The update step is based on [importance sampling](2024-03-15-importance-sampling). The following is a calculation, showing that the update step should be as above. 
+The update step is based on [importance sampling](https://mxstn.github.io/2024/03/15/importance-sampling.html). The following is a calculation, showing that the update step should be as above. 
 
 First, have $w^j_{-1} = 1/N$ such that
 
