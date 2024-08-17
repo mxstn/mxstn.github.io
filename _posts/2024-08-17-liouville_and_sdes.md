@@ -27,8 +27,8 @@ $$ \begin{align}
 \end{align} 
 $$
 
-Now we can regard the measure $\mu_N(t)$ as a collection of samples representing non-atomic probability measures.
-Suppose that for $N \to \infty$ the measure $\mu_N(t)$ converges for all $t$ in weak-star sense to some nice probability measure $\mu(t)$. Assume that $\mu(t)$ has a density $p(t, \cdot)$ with respect to the Lebesgue measure. Applying this to \eqref{empirical} leads to
+Now for each $t$, we can regard the measure $\mu_N(t)$ as a collection of samples representing a non-atomic probability measure.
+For that, suppose that for $N \to \infty$ the measure $\mu_N(t)$ converges for all $t$ in weak-star sense to some nice probability measure $\mu(t)$. Assume that $\mu(t)$ has a density $p(t, \cdot)$ with respect to the Lebesgue measure. Applying this to \eqref{empirical} leads to
 
 $$ \begin{align}
 \label{transport}
@@ -46,6 +46,6 @@ $$ \begin{align}
 
 which is a transport equation (also called continuity equation). Note that $p(0, \cdot)$ is given. Equation \eqref{liouville} is called a Liouville equation for the system \eqref{ode}.
 
-The question now is, can we write down a SDE that describes the evolution of $\mu(t)$? And vice versa, for a given SDE with fixed initial distribution, can we find a non-autonomous vector field \eqref{ode} describing the evolution of the SDE in the above sense?
+The question now is, can we write down a SDE that describes the evolution of $\mu(t)$ with density $p(t, \cdot)$? And vice versa, for a given SDE with fixed initial distribution, can we find a non-autonomous vector field \eqref{ode} describing the evolution of the SDE in the above sense?
 
 tbc.
