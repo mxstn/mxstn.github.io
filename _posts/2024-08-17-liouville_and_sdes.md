@@ -86,4 +86,6 @@ Note here that the vector field $Y$ does depend on the densities $q(t, x)$ throu
 
 ## And now?
 
+Given a SDE and $\nabla( \log \circ q(t, \cdot))$, where $q$ solves the associated Fokker-Planck equation, a non-autonomous vector field can be constructed, whose flow describes the evolution of an esemble of samples from $q(t, \cdot)$.
+
 tbc.
