@@ -4,7 +4,8 @@ date: 2024-08-17
 ---
 
 Recently, I was reading the term "Liouville equation" in the context of SDEs and was not entirely sure what exactly was meant.
-For physicists however, the connection of Liouville's equation from statistical mechanics and SDEs might be clear. 
+
+## Liouville equation
 
 Suppose we have a non-autonomous vector field $Y$ describing an evolution in some phase space:
 
@@ -50,6 +51,8 @@ $$ \begin{align}
 
 which is a transport equation (also called continuity equation). Note that $p(0, \cdot)$ is given. Equation \eqref{liouville} is called a Liouville equation for the system \eqref{ode}.
 
+## SDEs
+
 The question now is: can we write down a SDE that describes the evolution of $\mu(t)$ with density $p(t, \cdot)$? And vice versa, for a given SDE with fixed initial distribution, can we find a non-autonomous vector field \eqref{ode} describing the evolution of the SDE in the above sense?
 
 For this, consider a general SDE
@@ -79,6 +82,8 @@ and we see that we can match \eqref{liouville} by choosing the non-autonomous ve
 
 $$Y_i = a_i  - \sum_j [ \partial_{x_j} ([b b^T]_{ij}) + [b b^T]_{ij} \partial_{x_j}(\log q)  ].$$
 
-Note here that the vector field $Y$ does depend on the densities $q(t, x)$ through $\nabla( \log \circ q(t, \cdot))$.
+Note here that the vector field $Y$ does depend on the densities $q(t, x)$ through $\nabla( \log \circ q(t, \cdot))$. 
+
+## And now?
 
 tbc.
