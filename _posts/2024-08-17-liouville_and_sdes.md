@@ -44,7 +44,7 @@ $$ \begin{align}
 \partial_t p + \div_x(p Y) = 0,
 \end{align}$$
 
-which is a transport equation (also called continuity equation). Equation \eqref{liouville} is called Liouville equation for the system \eqref{ode}.
+which is a transport equation (also called continuity equation). Note that $p(0, \cdot)$ is given. Equation \eqref{liouville} is called a Liouville equation for the system \eqref{ode}.
 
 The question now is, can we write down a SDE that describes the evolution of $\mu(t)$? And vice versa, for a given SDE with fixed initial distribution, can we find a non-autonomous vector field \eqref{ode} describing the evolution of the SDE in the above sense?
 
