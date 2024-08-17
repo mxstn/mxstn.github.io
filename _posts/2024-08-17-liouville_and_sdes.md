@@ -64,10 +64,18 @@ $$
 \begin{align}
 \begin{split}
 \label{fp}
-\partial_t q = - \sum_i \partial_{x_i}(a q) + \frac{1}{2} \sum_{i,j} \partial_{x_i} \partial_{x_j}( [b b^T]_{ij} q ),
+\partial_t q = - \sum_i \partial_{x_i}(a q) + \frac{1}{2} \sum_{i,j} \partial_{x_i} \partial_{x_j}( [b b^T]_{ij}\, q ),
 \end{split}
 \end{align}
 $$
-where we now denote the density of \eqref{sde} by $q(t, \cdot)$.
+where we now denote the density of $X_t$ in \eqref{sde} by $q(t, \cdot)$. Now we can rewrite \eqref{fp} to
+$$
+\begin{align}
+\begin{split}
+\label{fp2}
+\partial_t q + \sum_i \partial_{x_i}\left[(  a_i  - \sum_j [ \partial_{x_j} ([b b^T]_{ij}) + [b b^T]_{ij} \partial_{x_j}(\log q)  ]) q  \right],
+\end{split}
+\end{align}
+$$
 
 tbc.
