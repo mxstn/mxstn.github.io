@@ -60,28 +60,25 @@ $$
 \end{align}
 $$
 with the associated Fokker-Planck equation
-$$
-\begin{align}
-\begin{split}
-\label{fpe}
-\partial_t q = - \sum_i \partial_{x_i}(a q) + \frac{1}{2} \sum_{i,j} \partial_{x_i} \partial_{x_j}( [b b^T]_{ij}\, q ),
-\end{split}
-\end{align}
-$$
-where we now denote the density of $X_t$ in \eqref{sde} by $q(t, \cdot)$. Now we can rewrite \eqref{fpe} to
 
 $$
 \begin{align}
-\begin{split}
-\label{fp2}
-\partial_t q + \sum_i \partial_{x_i}\left[ \left(  a_i  - \sum_j \left[ \partial_{x_j} ([b b^T]_{ij}) + [b b^T]_{ij} \partial_{x_j}(\log q)\right] \right) q  \right] = 0,
-\end{split}
+\label{fpeq}
+\partial_t q = - \sum_i \partial_{x_i}(a q) + \frac{1}{2} \sum_{i,j} \partial_{x_i} \partial_{x_j}( [b b^T]_{ij}\, q ),
 \end{align}
 $$
-and we see that we can match \eqref{liouville} by choosing 
+where we now denote the density of $X_t$ in \eqref{sde} by $q(t, \cdot)$. Now we can rewrite \eqref{fpeq} to
+
+$$
+\begin{align}
+\label{fp2}
+\partial_t q + \sum_i \partial_{x_i}\left[ \left(  a_i  - \sum_j \left[ \partial_{x_j} ([b b^T]_{ij}) + [b b^T]_{ij} \partial_{x_j}(\log q)\right] \right) q  \right] = 0,
+\end{align}
+$$
+and we see that we can match \eqref{liouville} by choosing the non-autonomous vector field $Y$ to have components
 
 $$Y_i = a_i  - \sum_j [ \partial_{x_j} ([b b^T]_{ij}) + [b b^T]_{ij} \partial_{x_j}(\log q)  ].$$
 
-Here it must be noted that the vector field $Y$ does depend on the densities $q(t, x)$!
+Note here that the vector field $Y$ does depend on the densities $q(t, x)$ through $\nabla( \log \circ q(t, \cdot))$.
 
 tbc.
