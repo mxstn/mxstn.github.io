@@ -21,9 +21,11 @@ $$ \mu_N(t) = \frac{1}{N} \sum_i \delta_{x_i(t)}.$$
 For any test function $\phi$ we then have
 
 $$ \begin{align}
+\begin{split}
 \label{empirical}
 	\frac{\d}{\d t} \int \phi \d \mu_N(t) &= \frac{\d}{\d t} \frac{1}{N} \sum_i \phi(x_i(t)) =  \frac{1}{N} \sum_i \nabla\phi(x_i(t)) \cdot Y(x_i(t), t)\\
 	&= \int \nabla\phi \cdot Y(t, \cdot) \d \mu_N(t).
+	\end{split}
 \end{align} 
 $$
 
@@ -31,9 +33,11 @@ Now for each $t$, we can regard the measure $\mu_N(t)$ as a collection of sample
 For that, suppose that for $N \to \infty$ the measure $\mu_N(t)$ converges for all $t$ in weak-star sense to some nice probability measure $\mu(t)$. Assume that $\mu(t)$ has a density $p(t, \cdot)$ with respect to the Lebesgue measure. Applying this to \eqref{empirical} leads to
 
 $$ \begin{align}
+\begin{split}
 \label{transport}
 	\frac{\d}{\d t} \int \phi \d \mu(t) &= \frac{\d}{\d t} \int \phi(x) \partial_t p(t, x) \d x = \int \nabla\phi(x) \cdot Y(t, x) p(t,x) \d x\\
 	&= - \int \phi(x) \div_x[p(t,x) Y(t,x)] \d x,
+	\end{split}
 \end{align} 
 $$
 
@@ -46,6 +50,24 @@ $$ \begin{align}
 
 which is a transport equation (also called continuity equation). Note that $p(0, \cdot)$ is given. Equation \eqref{liouville} is called a Liouville equation for the system \eqref{ode}.
 
-The question now is, can we write down a SDE that describes the evolution of $\mu(t)$ with density $p(t, \cdot)$? And vice versa, for a given SDE with fixed initial distribution, can we find a non-autonomous vector field \eqref{ode} describing the evolution of the SDE in the above sense?
+The question now is: can we write down a SDE that describes the evolution of $\mu(t)$ with density $p(t, \cdot)$? And vice versa, for a given SDE with fixed initial distribution, can we find a non-autonomous vector field \eqref{ode} describing the evolution of the SDE in the above sense?
+
+For this, consider a general SDE
+$$
+\begin{align}
+\label{sde}
+\d X_t = a(X_t, t) \d t + b(X_t, t) \d B_t
+\end{align}
+$$
+with the associated Fokker-Planck equation
+$$
+\begin{align}
+\begin{split}
+\label{fp}
+\partial_t q = - \sum_i \partial_{x_i}(a q) + \frac{1}{2} \sum_{i,j} \partial_{x_i} \partial_{x_j}( [b b^T]_{ij} q ),
+\end{split}
+\end{align}
+$$
+where we now denote the density of \eqref{sde} by $q(t, \cdot)$.
 
 tbc.
