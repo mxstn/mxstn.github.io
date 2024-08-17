@@ -63,19 +63,25 @@ with the associated Fokker-Planck equation
 $$
 \begin{align}
 \begin{split}
-\label{fp}
+\label{fpe}
 \partial_t q = - \sum_i \partial_{x_i}(a q) + \frac{1}{2} \sum_{i,j} \partial_{x_i} \partial_{x_j}( [b b^T]_{ij}\, q ),
 \end{split}
 \end{align}
 $$
-where we now denote the density of $X_t$ in \eqref{sde} by $q(t, \cdot)$. Now we can rewrite \eqref{fp} to
+where we now denote the density of $X_t$ in \eqref{sde} by $q(t, \cdot)$. Now we can rewrite \eqref{fpe} to
+
 $$
 \begin{align}
 \begin{split}
 \label{fp2}
-\partial_t q + \sum_i \partial_{x_i}\left[(  a_i  - \sum_j [ \partial_{x_j} ([b b^T]_{ij}) + [b b^T]_{ij} \partial_{x_j}(\log q)  ]) q  \right],
+\partial_t q + \sum_i \partial_{x_i}\left[ \left(  a_i  - \sum_j \left[ \partial_{x_j} ([b b^T]_{ij}) + [b b^T]_{ij} \partial_{x_j}(\log q)\right] \right) q  \right] = 0,
 \end{split}
 \end{align}
 $$
+and we see that we can match \eqref{liouville} by choosing 
+
+$$Y_i = a_i  - \sum_j [ \partial_{x_j} ([b b^T]_{ij}) + [b b^T]_{ij} \partial_{x_j}(\log q)  ].$$
+
+Here it must be noted that the vector field $Y$ does depend on the densities $q(t, x)$!
 
 tbc.
