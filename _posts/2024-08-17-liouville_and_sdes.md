@@ -11,29 +11,29 @@ Suppose we have a sufficiently smooth, non-autonomous vector field $Y$ describin
 
 $$ \begin{align}
 	\label{ode}
-	x' = Y(x,t)
+	\frac{\d x}{\d t} = Y(x,t)
 \end{align} 
 $$
 
-We can then follow not only a single initial condition under the flow of \eqref{ode}, but a collection of initial conditions $x_1(0), \dots x_N(0)$, provided their solutions exist for sufficiently long time. Denote the corresponding trajectories by $x_1(t), \dots x_N(t)$ and consider the probability measure $\mu_N$ defined by 
+As is, this is a "particle-wise" description. We can then follow not only a single initial condition under the flow of \eqref{ode}, but a collection of initial conditions $x_1(0), \dots x_N(0)$, provided their solutions exist for sufficiently long time. Denote the corresponding trajectories by $x_1(t), \dots x_N(t)$ and consider the probability measure $\mu_N$ defined by 
 
-$$ \mu_N(t) = \frac{1}{N} \sum_i \delta_{x_i(t)}.$$
+$$ \mu_{N,t} = \frac{1}{N} \sum_i \delta_{x_i(t)}.$$
 
 For any test function $\phi$ we then have
 
 $$ \begin{align}
-\begin{split}
 \label{empirical}
-	\frac{\d}{\d t}\leval_t \int \phi \d \mu_N(t) &= \frac{\d}{\d t}\leval_t \frac{1}{N} \sum_i \phi(x_i(t)) =  \frac{1}{N} \sum_i \nabla\phi(x_i(t)) \cdot Y(x_i(t), t)\\
-	&= \int \nabla\phi \cdot Y(t, \cdot) \d \mu_N(t).
-	\end{split}
+	\frac{\d}{\d t}\leval_t \int \phi \d \mu_{N,t} &= \frac{\d}{\d t}\leval_t \frac{1}{N} \sum_i \phi(x_i(t)) =  \frac{1}{N} \sum_i \nabla\phi(x_i(t)) \cdot Y(x_i(t), t)\\
+	&= \int \nabla\phi \cdot Y(t, \cdot) \d \mu_{N,t}. \nonumber
 \end{align} 
 $$
 
-Now for each $t$, we can regard the measure $\mu_N(t)$ as a collection of samples representing a non-atomic probability measure.
-For that, suppose that for $N \to \infty$ the measures $\mu_N(t)$ converge for all $t$ in weak-star sense to probability measures $\mu(t)$. 
+Now suppose we start with some probability distribution $\mu_0$ of particles at time $t = 0$ and we are interested in its evolution $\mu_t$ under the dynamics \eqref{ode}.
 
-Assume that $\mu(t)$ have a density $p(t, \cdot)$ with respect to the Lebesgue measure, which is sufficiently smooth. Applying this to \eqref{empirical} leads to
+Note that we can also consider a Monte Carlo approximation of $\mu_0$ and its evolution $\mu_t$, where the approximation is of the form \eqref{empirical}.
+For that, suppose that for $N \to \infty$ the measures $\mu_{N,t}$ converge for all $t$ in weak-star sense to probability measures $\mu_t$. 
+
+First, suppose that the measures $\mu_t$ have sufficiently smooth densities $p(t, \cdot)$. Then
 
 $$ \begin{align}
 \begin{split}
@@ -44,7 +44,7 @@ $$ \begin{align}
 \end{align} 
 $$
 
-where we have used integration by parts. Since $\phi$ is an arbitrary test function we have
+where we have used integration by parts. Since $\phi$ is an arbitrary test function and $t$ was arbitrary, we have
 
 $$ \begin{align} 
 \label{liouville}
