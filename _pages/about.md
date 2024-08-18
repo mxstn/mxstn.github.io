@@ -4,7 +4,7 @@ layout: page
 title: About
 ---
 
-My name is Maximilian Steinert.
+My name is Max.
 Typically, I would describe myself as a mathematician, alpinist and research engineer.
 
 - mathematically, i am interested in geometry, dynamics, probability and their interactions.
