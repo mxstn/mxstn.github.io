@@ -7,7 +7,7 @@ Recently, I was reading the term "Liouville equation" in the context of SDEs and
 
 ## Liouville equation
 
-Suppose we have a non-autonomous vector field $Y$ describing an evolution in some phase space:
+Suppose we have a sufficiently smooth, non-autonomous vector field $Y$ describing an evolution in some phase space:
 
 $$ \begin{align}
 	\label{ode}
@@ -24,19 +24,21 @@ For any test function $\phi$ we then have
 $$ \begin{align}
 \begin{split}
 \label{empirical}
-	\frac{\d}{\d t} \int \phi \d \mu_N(t) &= \frac{\d}{\d t} \frac{1}{N} \sum_i \phi(x_i(t)) =  \frac{1}{N} \sum_i \nabla\phi(x_i(t)) \cdot Y(x_i(t), t)\\
+	\frac{\d}{\d t}\leval_t \int \phi \d \mu_N(t) &= \frac{\d}{\d t}\leval_t \frac{1}{N} \sum_i \phi(x_i(t)) =  \frac{1}{N} \sum_i \nabla\phi(x_i(t)) \cdot Y(x_i(t), t)\\
 	&= \int \nabla\phi \cdot Y(t, \cdot) \d \mu_N(t).
 	\end{split}
 \end{align} 
 $$
 
 Now for each $t$, we can regard the measure $\mu_N(t)$ as a collection of samples representing a non-atomic probability measure.
-For that, suppose that for $N \to \infty$ the measure $\mu_N(t)$ converges for all $t$ in weak-star sense to some nice probability measure $\mu(t)$. Assume that $\mu(t)$ has a density $p(t, \cdot)$ with respect to the Lebesgue measure. Applying this to \eqref{empirical} leads to
+For that, suppose that for $N \to \infty$ the measures $\mu_N(t)$ converge for all $t$ in weak-star sense to probability measures $\mu(t)$. 
+
+Assume that $\mu(t)$ have a density $p(t, \cdot)$ with respect to the Lebesgue measure, which is sufficiently smooth. Applying this to \eqref{empirical} leads to
 
 $$ \begin{align}
 \begin{split}
 \label{transport}
-	\frac{\d}{\d t} \int \phi \d \mu(t) &= \frac{\d}{\d t} \int \phi(x) \partial_t p(t, x) \d x = \int \nabla\phi(x) \cdot Y(t, x) p(t,x) \d x\\
+	\frac{\d}{\d t}\leval_t \int \phi \d \mu(t) &= \int \phi(x) \partial_t p(t, x) \d x = \int \nabla\phi(x) \cdot Y(t, x) p(t,x) \d x\\
 	&= - \int \phi(x) \div_x[p(t,x) Y(t,x)] \d x,
 	\end{split}
 \end{align} 
