@@ -15,9 +15,13 @@ $$ \begin{align}
 \end{align} 
 $$
 
-As is, this is a "particle-wise" description. We can then follow not only a single initial condition under the flow of \eqref{ode}, but a collection of initial conditions $x_1(0), \dots x_N(0)$, provided their solutions exist for sufficiently long time. Denote the corresponding trajectories by $x_1(t), \dots x_N(t)$ and consider the probability measure $\mu_N$ defined by 
+As is, this is a "particle-wise" description. We can then follow not only a single initial condition under the flow of \eqref{ode}, but a collection of initial conditions $x_1(0), \dots x_N(0)$, provided their solutions exist for sufficiently long time. Denote the corresponding trajectories by $x_1(t), \dots x_N(t)$ and consider the time-dependent probability measure $\mu_{N,t}$ defined by 
 
-$$ \mu_{N,t} = \frac{1}{N} \sum_i \delta_{x_i(t)}.$$
+$$
+\begin{align}
+\label{mc}
+ \mu_{N,t} = \frac{1}{N} \sum_i \delta_{x_i(t)}.
+ \end{align}$$
 
 For any test function $\phi$ we then have
 
@@ -28,23 +32,27 @@ $$ \begin{align}
 \end{align} 
 $$
 
-Now suppose we start with some probability distribution $\mu_0$ of particles at time $t = 0$ and we are interested in its evolution $\mu_t$ under the dynamics \eqref{ode}.
+Now suppose we start with some general probability distribution $\mu_0$ of particles at time $t = 0$ and we are interested in its evolution $\mu_t$ under the dynamics \eqref{ode}.
 
-Note that we can also consider a Monte Carlo approximation of $\mu_0$ and its evolution $\mu_t$, where the approximation is of the form \eqref{empirical}.
-For that, suppose that for $N \to \infty$ the measures $\mu_{N,t}$ converge for all $t$ in weak-star sense to probability measures $\mu_t$. 
+Note that we can consider a Monte Carlo approximation of $\mu_0$ and its evolution $\mu_t$, where these approximations are of the form \eqref{mc}.
+In this case we have that for $N \to \infty$ the measures $\mu_{N,t}$ converge for each $t$ in weak-star sense to $\mu_t$ and from \eqref{empirical} we get in distributional sense
 
-First, suppose that the measures $\mu_t$ have sufficiently smooth densities $p(t, \cdot)$. Then
+$$
+\frac{\d}{\d t}\leval_t \< \mu_t, \phi \> = \< \partial_t \mu_t, \phi \> = \< \mu_t, \nabla\phi \cdot Y(t, \cdot) \> = - \< \div(\mu_t Y(t, \cdot)), \phi \>.
+$$
+
+Or, a bit more classical, if the measures $\mu_t$ have sufficiently smooth densities $p(t, \cdot)$, then
 
 $$ \begin{align}
 \begin{split}
 \label{transport}
-	\frac{\d}{\d t}\leval_t \int \phi \d \mu(t) &= \int \phi(x) \partial_t p(t, x) \d x = \int \nabla\phi(x) \cdot Y(t, x) p(t,x) \d x\\
-	&= - \int \phi(x) \div_x[p(t,x) Y(t,x)] \d x,
+	\frac{\d}{\d t}\leval_t \int \phi \d \mu_t &= \int \phi(x) \partial_t p(t, x) \d x = \int \nabla\phi(x) \cdot Y(t, x) p(t,x) \d x\\
+	&= - \int \phi(x) \div_x[p Y](t,x) \d x,
 	\end{split}
 \end{align} 
 $$
 
-where we have used integration by parts. Since $\phi$ is an arbitrary test function and $t$ was arbitrary, we have
+where we have used integration by parts. In any case, since $\phi$ is an arbitrary test function and $t$ was arbitrary, we get
 
 $$ \begin{align} 
 \label{liouville}
