@@ -48,14 +48,16 @@ $$ \begin{align}
 \end{align} 
 $$
 
-where we have used integration by parts. In any case, since $\phi$ is an arbitrary test function and $t$ was arbitrary, we get
+where we have used integration by parts. Since $\phi$ is an arbitrary test function and $t$ was arbitrary, we get
 
 $$ \begin{align} 
 \label{liouville}
 \partial_t p + \div_x(p Y) = 0,
 \end{align}$$
 
-which is a transport equation (also called continuity equation). Note that $p(0, \cdot)$ is given. Equation \eqref{liouville} is called a Liouville equation for the system \eqref{ode}. Note that for general probability measures equation \eqref{liouville} must be read in distributional sense.
+which is a transport equation (also called continuity equation). Note that $p(0, \cdot)$ is given. Equation \eqref{liouville} can be called a Liouville equation for the system \eqref{ode}. Note that for general probability measures equation \eqref{liouville} must be read in distributional sense.
+
+System \eqref{ode} can also seen as Liouville equation itself, since one may express $\mu_t$ via the pushforward $\mu_t = (\varphi^t(0,\cdot))_\ast \mu_0$, where the flow $\varphi^t(0,\cdot)$ exists.
 
 ## SDEs
 
