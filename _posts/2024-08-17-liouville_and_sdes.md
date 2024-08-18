@@ -38,8 +38,10 @@ Note that we can consider a Monte Carlo approximation of $\mu_0$ and its evoluti
 In this case we have that for $N \to \infty$ the measures $\mu_{N,t}$ converge for each $t$ in weak-star sense to $\mu_t$ and from \eqref{empirical} we get in distributional sense
 
 $$
-\frac{\d}{\d t}\leval_t \< \mu_t, \phi \> = \< \partial_t \mu_t, \phi \> = \< \mu_t, \nabla\phi \cdot Y(t, \cdot) \> = - \< \div(\mu_t Y(t, \cdot)), \phi \>.
+\frac{\d}{\d t}\leval_t \< \mu_t, \phi \> = \< \mu_t, \nabla\phi \cdot Y(t, \cdot) \> = - \< \div(\mu_t Y(t, \cdot)), \phi \>.
 $$
+
+Now, to arrive at $ \partial_t \mu_t + \div(\mu_t Y(t, \cdot)) $ in the sense of distribution theory, there is a small technicality left: so far $\phi$ is a test function only in the spatial variables. This can be overcome by recomputing \eqref{empirical} for a space-time test function $\tilde{\phi}(t,x)$, we skip it here.
 
 Or, a bit more classical, if the measures $\mu_t$ have sufficiently smooth densities $p(t, \cdot)$, then
 
@@ -63,9 +65,9 @@ which is a transport equation (also called continuity equation). Note that $p(0,
 
 ## SDEs
 
-Now, can we write down a SDE that describes the evolution of $\mu(t)$ with density $p(t, \cdot)$? 
-And vice versa, for a given SDE with fixed initial distribution, can we find a non-autonomous vector field \eqref{ode} describing the evolution of the SDE in the above sense?
-The answers are given by the Fokker-Planck equation.
+Now, can we write down a SDE that describes the evolution of $\mu_t_$? 
+And vice versa, for a given SDE with fixed initial distribution, can we find a non-autonomous vector field \eqref{ode} also describing the evolution of the distribution in the above sense?
+A way to answer this is to look at the Fokker-Planck equation.
 
 For this, consider a general SDE
 $$
