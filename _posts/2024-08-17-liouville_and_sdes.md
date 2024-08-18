@@ -55,7 +55,9 @@ which is a transport equation (also called continuity equation). Note that $p(0,
 
 ## SDEs
 
-The question now is: can we write down a SDE that describes the evolution of $\mu(t)$ with density $p(t, \cdot)$? And vice versa, for a given SDE with fixed initial distribution, can we find a non-autonomous vector field \eqref{ode} describing the evolution of the SDE in the above sense?
+Now, can we write down a SDE that describes the evolution of $\mu(t)$ with density $p(t, \cdot)$? 
+And vice versa, for a given SDE with fixed initial distribution, can we find a non-autonomous vector field \eqref{ode} describing the evolution of the SDE in the above sense?
+The answers are given by the Fokker-Planck equation.
 
 For this, consider a general SDE
 $$
