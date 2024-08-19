@@ -57,7 +57,7 @@ $$ \begin{align}
 
 which is a transport equation (also called continuity equation). Note that $p(0, \cdot)$ is given. Equation \eqref{liouville} can be called a Liouville equation for the system \eqref{ode}. Note that for general probability measures equation \eqref{liouville} must be read in distributional sense.
 
-System \eqref{ode} can also be seen as Liouville equation itself, since one may express $\mu_t$ via the pushforward $\mu_t = (\varphi^{t,0})_\ast \mu_0$, at least locally, where the flow $\varphi^{t,0}$ exists, [check below](#appendix).
+System \eqref{ode} can also be seen as Liouville equation itself, since one may express $\mu_t$ via the pushforward $\mu_t = (\varphi^{t,0})_\ast \mu_0$, at least locally, where the flow $\varphi^{t,0}$ of $Y$ exists, [check below](#appendix).
 
 ## Connection to SDEs?
 
@@ -78,7 +78,7 @@ with the associated Fokker-Planck equation
 $$
 \begin{align}
 \label{fpeq}
-\partial_t q = - \sum_i \partial_{x_i}(a q) + \frac{1}{2} \sum_{i,j} \partial_{x_i} \partial_{x_j}( [b b^T]_{ij}\, q ),
+\partial_t q = - \sum_i \partial_{x_i}(a_i q) + \frac{1}{2} \sum_{i,j} \partial_{x_i} \partial_{x_j}( [b b^T]_{ij}\, q ),
 \end{align}
 $$
 where we now denote the density of $X_t$ in \eqref{sde} by $q(t, \cdot)$. Now we can rewrite \eqref{fpeq} to
@@ -86,14 +86,14 @@ where we now denote the density of $X_t$ in \eqref{sde} by $q(t, \cdot)$. Now we
 $$
 \begin{align}
 \label{fp2}
-\partial_t q + \sum_i \partial_{x_i}\left[ \left(  a_i  - \sum_j \left[ \partial_{x_j} ([b b^T]_{ij}) + [b b^T]_{ij} \partial_{x_j}(\log q)\right] \right) q  \right] = 0,
+\partial_t q + \sum_i \partial_{x_i}\left[ \left(  a_i  - \frac{1}{2} \sum_j \left[ \partial_{x_j} ([b b^T]_{ij}) + [b b^T]_{ij} \partial_{x_j}(\log q)\right] \right) q  \right] = 0,
 \end{align}
 $$
-where the key ingredient is $ \nabla_x \log p(t,x) = \frac{\nabla_x p(t, x)}{p(t, x)}$.
+if $q$ does not vanish, where the key ingredient is $ \nabla_x \log q(t,x) = \frac{\nabla_x q(t, x)}{q(t, x)}$.
 
 Now we see that we can match \eqref{liouville} by choosing the non-autonomous vector field $Y$ to have components
 
-$$Y_i = a_i  - \sum_j [ \partial_{x_j} ([b b^T]_{ij}) + [b b^T]_{ij} \partial_{x_j}(\log q)  ].$$
+$$Y_i = a_i  - \frac{1}{2} \sum_j [ \partial_{x_j} ([b b^T]_{ij}) + [b b^T]_{ij} \partial_{x_j}(\log q)  ].$$
 
 Note here that the vector field $Y$ does depend on the densities $q(t, x)$ through $\nabla( \log \circ q(t, \cdot))$. 
 
@@ -101,19 +101,20 @@ Hence, given a SDE and $\nabla( \log \circ q(t, \cdot))$, where $q$ solves the a
 
 ## Appendix
 
-Let $\varphi^{t,0}(x)$ denote the flow of $Y$ (meaning $ \frac{\d}{\d t}\leval_t \varphi^{t,0}(x) = Y(t, \varphi^{t, 0}(x)) $)
+Let $\varphi^{t,0}(x)$ denote the flow of $Y$ (meaning $ \frac{\d}{\d t}\rvert_t \varphi^{t,0}(x) = Y(t, \varphi^{t, 0}(x)) $)
 and let $\mu_t = (\varphi^{t,0})_\ast \mu_0$. 
+
 The following lines are to show that $\mu_t$ solves \eqref{liouville} in distributional sense (at least locally where the flow exists).
 
 Take some test function $\psi$ in space-time. Then we have
 
 $$
 \begin{align*}
-\frac{\d}{\d t}\leval_t \psi(t, \varphi^{t,0}(x)) = \partial_t \psi(t,\varphi^{t,0}(x)) + \nabla_x \psi(t, \varphi^{t,0}(x)) \cdot Y(t, \varphi^{t, 0}(x)).
+\frac{\d}{\d t}\rvert_t \psi(t, \varphi^{t,0}(x)) = \partial_t \psi(t,\varphi^{t,0}(x)) + \nabla_x \psi(t, \varphi^{t,0}(x)) \cdot Y(t, \varphi^{t, 0}(x)).
 \end{align*}
 $$
 
-Let $ \langle \xi , \psi \rangle $ denote the value obtained from testing the distribution $\xi$ against $\psi$ (here, distribution is meant in the sense of distribution theory). Then, by slight abuse of notation
+Let $ \langle \xi , \psi \rangle $ denote the value obtained from testing a distribution $\xi$ against $\psi$ (here, distribution is meant in the sense of distribution theory). Then, by slight abuse of notation
 
 $$
 \begin{align*}
@@ -127,7 +128,8 @@ $$
 $$
 
 where we have used dominated convergence and the fact that $\psi$ has compact support. Hence $\mu_t$ solves \eqref{liouville} in distributional sense, since $\psi$ was arbitrary.
-Note that we have since we are working with distributions in space-time here, the above lines are abuse of notation, since $\mu_t$ is only acting as a distribution on test functions in spatial variables. The technically correct way is to write $\langle 1 \otimes \mu_t, \psi \rangle$ instead of $\langle \mu_t, \psi \rangle$, since $\psi(t,x)$ is a test function on space-time.
+
+Note that the above lines are abuse of notation, since $\mu_t$ seen as distribution is only acting on test functions in spatial variables. The technically correct way is to write $\langle 1 \otimes \mu_t, \psi \rangle$ instead of $\langle \mu_t, \psi \rangle$, since $\psi(t,x)$ is a test function on space-time. Technically precise, this would also mean that $1 \otimes \mu_t$ solves \eqref{liouville} in distributional sense.
 
 
 
