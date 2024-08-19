@@ -57,9 +57,9 @@ $$ \begin{align}
 
 which is a transport equation (also called continuity equation). Note that $p(0, \cdot)$ is given. Equation \eqref{liouville} can be called a Liouville equation for the system \eqref{ode}. Note that for general probability measures equation \eqref{liouville} must be read in distributional sense.
 
-System \eqref{ode} can also seen as Liouville equation itself, since one may express $\mu_t$ via the pushforward $\mu_t = (\varphi^{t,0})_\ast \mu_0$, at least locally, where the flow $\varphi^{t,0}$ exists.
+System \eqref{ode} can also be seen as Liouville equation itself, since one may express $\mu_t$ via the pushforward $\mu_t = (\varphi^{t,0})_\ast \mu_0$, at least locally, where the flow $\varphi^{t,0}$ exists, [check below](#appendix)
 
-## SDEs
+## Connection to SDEs?
 
 Stochastic differential equations (SDEs) can also describe the evolution of probability distributions. How do they relate to Liouville equations?
 Given a Liouville equation, can we write down a SDE that describes the evolution of $\mu_t$? 
@@ -98,4 +98,30 @@ $$Y_i = a_i  - \sum_j [ \partial_{x_j} ([b b^T]_{ij}) + [b b^T]_{ij} \partial_{x
 Note here that the vector field $Y$ does depend on the densities $q(t, x)$ through $\nabla( \log \circ q(t, \cdot))$. 
 
 Hence, given a SDE and $\nabla( \log \circ q(t, \cdot))$, where $q$ solves the associated Fokker-Planck equation, a non-autonomous vector field can be constructed, such that the associated Liouville equation describes the evolution of $q(t, \cdot)$.
+
+## Appendix
+
+Let $\varphi^{t,0}(x)$ denote the flow of $Y$ (meaning $ \frac{\d}{\d t}\leval_t \varphi^{t,0}(x) = Y(t, \varphi^{t, 0}(x)) $)
+and let $\mu_t = (\varphi^{t,0})_\ast \mu_0$. Then $\mu_t$ solves \eqref{liouville} in distributional sense:
+
+Take some test function $\psi$ in space-time. Then we have
+$$
+\frac{\d}{\d t}\leval_t \psi(t, \varphi^{t,0}(x)) = \partial_t \psi(t,\varphi^{t,0}(x)) + \nabla_x \psi(t, \varphi^{t,0}(x)) \cdot Y(t, \varphi^{t, 0}(x)).
+$$
+
+Let $ \< \xi , \psi \> $ denote the value obtained from testing the distribution $\xi$ against $\psi$ (distribution in the sense of distribution theory). Then
+$$
+\begin{align}
+\< \partial_t \mu_t + \div_x(\mu_t Y), \psi \> &= - \< \mu_t, \partial_t \psi + \nabla_x \psi \cdot Y \> \\
+&= - \< (\varphi^{t,0})_\ast \mu_0, \partial_t \psi + \nabla_x \psi \cdot Y \> \\
+&= - \< \mu_0, (\partial_t \psi + \nabla_x \psi \cdot Y) \circ \varphi^{t,0} \> \\
+&= - \int \int \frac{\d}{\d t}\leval_t \psi(t, \varphi^{t,0}(x)) \d \mu_0(x) \d t\\
+&= - \int \frac{\d}{\d t}\leval_t \int \psi(t, \varphi^{t,0}(x)) \d \mu_0(x) \d t\\
+&= 0,
+\end{align}
+$$
+where we have used dominated convergence and the fact that $\psi$ has compact support. Hence $\mu_t$ solves \eqref{liouville} in distributional sense, since $\psi$ was arbitrary.
+Note that we have since we are working with distributions in space-time here, the above lines are abuse of notation, since $\mu_t$ is only acting as a distribution on test functions in spatial variables. The technically correct way is to write $\< 1 \otimes \mu_t, \psi \>$ instead of $\< \mu_t, \psi \>$, since $\psi(t,x)$ is a test function on space-time.
+
+
 
