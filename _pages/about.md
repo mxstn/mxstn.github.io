@@ -17,4 +17,6 @@ My current homebase is Innsbruck, Tyrol.
 
 I hold a BSc in mathematics from the University of Augsburg and a MSc in mathematics from the Technical University of Munich (TUM). Afterwards, I started a PhD in mathematics at TUM, which is yet to be completed. Currently, I am working at MED-EL.
 
+You can reach me via [5-letter-blog-title]@icloud.com.
+
 <img src="../assets/img/200612_me.jpg" alt="me" width="100%" oncontextmenu="return false;"/>

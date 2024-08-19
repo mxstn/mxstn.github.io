@@ -3,11 +3,11 @@ title: "Liouville equation and SDEs"
 date: 2024-08-17
 ---
 
-Recently, I was reading the term "Liouville equation" in the context of SDEs and was not entirely sure what exactly was meant. Turns out a Liouville equation is just a transport equation, describing the evolution of a probability distribution "of particles" under given deterministic dynamics. A nice way to derive this equation is to use a Monte Carlo approach: consider an esemble of samples and track their evolution.
+Recently, I was reading the term "Liouville equation" in the context of SDEs and was not entirely sure what exactly was meant. Turns out a Liouville equation can be seen as a transport equation, describing the evolution of a probability distribution "of particles" under given deterministic dynamics. A nice way to derive this equation is to use a Monte Carlo approach: consider an esemble of samples and track their evolution.
 
 ## Liouville equation from samples
 
-Suppose we have a sufficiently smooth, non-autonomous vector field $Y$:
+Suppose we have a sufficiently regular, non-autonomous vector field $Y$:
 
 $$ \begin{align}
 	\label{ode}
