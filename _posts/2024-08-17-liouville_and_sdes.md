@@ -57,7 +57,7 @@ $$ \begin{align}
 
 which is a transport equation (also called continuity equation). Note that $p(0, \cdot)$ is given. Equation \eqref{liouville} can be called a Liouville equation for the system \eqref{ode}. Note that for general probability measures equation \eqref{liouville} must be read in distributional sense.
 
-System \eqref{ode} can also be seen as Liouville equation itself, since one may express $\mu_t$ via the pushforward $\mu_t = (\varphi^{t,0})_\ast \mu_0$, at least locally, where the flow $\varphi^{t,0}$ exists, [check below](#appendix)
+System \eqref{ode} can also be seen as Liouville equation itself, since one may express $\mu_t$ via the pushforward $\mu_t = (\varphi^{t,0})_\ast \mu_0$, at least locally, where the flow $\varphi^{t,0}$ exists, [check below](#appendix).
 
 ## Connection to SDEs?
 
