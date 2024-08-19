@@ -102,26 +102,32 @@ Hence, given a SDE and $\nabla( \log \circ q(t, \cdot))$, where $q$ solves the a
 ## Appendix
 
 Let $\varphi^{t,0}(x)$ denote the flow of $Y$ (meaning $ \frac{\d}{\d t}\leval_t \varphi^{t,0}(x) = Y(t, \varphi^{t, 0}(x)) $)
-and let $\mu_t = (\varphi^{t,0})_\ast \mu_0$. Then $\mu_t$ solves \eqref{liouville} in distributional sense:
+and let $\mu_t = (\varphi^{t,0})_\ast \mu_0$. 
+The following lines are to show that $\mu_t$ solves \eqref{liouville} in distributional sense (at least locally where the flow exists).
 
 Take some test function $\psi$ in space-time. Then we have
+
 $$
+\begin{align*}
 \frac{\d}{\d t}\leval_t \psi(t, \varphi^{t,0}(x)) = \partial_t \psi(t,\varphi^{t,0}(x)) + \nabla_x \psi(t, \varphi^{t,0}(x)) \cdot Y(t, \varphi^{t, 0}(x)).
+\end{align*}
 $$
 
-Let $ \< \xi , \psi \> $ denote the value obtained from testing the distribution $\xi$ against $\psi$ (distribution in the sense of distribution theory). Then
+Let $ \langle \xi , \psi \rangle $ denote the value obtained from testing the distribution $\xi$ against $\psi$ (here, distribution is meant in the sense of distribution theory). Then, by slight abuse of notation
+
 $$
-\begin{align}
+\begin{align*}
 \< \partial_t \mu_t + \div_x(\mu_t Y), \psi \> &= - \< \mu_t, \partial_t \psi + \nabla_x \psi \cdot Y \> \\
 &= - \< (\varphi^{t,0})_\ast \mu_0, \partial_t \psi + \nabla_x \psi \cdot Y \> \\
 &= - \< \mu_0, (\partial_t \psi + \nabla_x \psi \cdot Y) \circ \varphi^{t,0} \> \\
 &= - \int \int \frac{\d}{\d t}\leval_t \psi(t, \varphi^{t,0}(x)) \d \mu_0(x) \d t\\
 &= - \int \frac{\d}{\d t}\leval_t \int \psi(t, \varphi^{t,0}(x)) \d \mu_0(x) \d t\\
 &= 0,
-\end{align}
+\end{align*}
 $$
+
 where we have used dominated convergence and the fact that $\psi$ has compact support. Hence $\mu_t$ solves \eqref{liouville} in distributional sense, since $\psi$ was arbitrary.
-Note that we have since we are working with distributions in space-time here, the above lines are abuse of notation, since $\mu_t$ is only acting as a distribution on test functions in spatial variables. The technically correct way is to write $\< 1 \otimes \mu_t, \psi \>$ instead of $\< \mu_t, \psi \>$, since $\psi(t,x)$ is a test function on space-time.
+Note that we have since we are working with distributions in space-time here, the above lines are abuse of notation, since $\mu_t$ is only acting as a distribution on test functions in spatial variables. The technically correct way is to write $\langle 1 \otimes \mu_t, \psi \rangle$ instead of $\langle \mu_t, \psi \rangle$, since $\psi(t,x)$ is a test function on space-time.
 
 
 
