@@ -11,7 +11,7 @@ Typically, I would describe myself as a mathematician, alpinist and research eng
 
 - as a research engineer, i am interested in developments in machine learning.
 
-- finally, as an alpinist, my interests are [mountaineering, climbing and ski-touring](https://mxstn.github.io/mountains) with a focus on the eastern alps.
+- finally, as an alpinist, [my interests are mountaineering, climbing and ski-touring](https://mxstn.github.io/mountains) with a focus on the eastern alps.
 
 My current homebase is Innsbruck, Tyrol. 
 

@@ -122,9 +122,9 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Großer Möseler
 	- South ridge (3) via Möselekopf
 - Gigalitz
-	Gigalitzturm South-east (5-)
+	- Gigalitzturm South-east (5-)
 - Hoher Weißzint
-	- East ridge (3) from lake
+	- East ridge (3) from Neves lake
 
 
 ## Hohe Tauern
@@ -150,13 +150,14 @@ Since I grew up in the Wetterstein mountains, they come first.
 	- south ridge (4+)
 - Piz Bernina
 	- Bianco ridge (3)
-- Piz Palü traverse
+- Piz Palü 
+	- traverse
 	
 	
 ## Ortleralpen
 
 - Ortler
-	- Hintergrat (4-) from Sulden with fresh snow in autumn
+	- Hintergrat (4) from Sulden with fresh snow in autumn
 - Cevedale, Nördl. Zufallspitz (ski)
 - Cima Marmotta (ski)
 - Madritschspitz, Butzenspitz (ski)
@@ -166,8 +167,9 @@ Since I grew up in the Wetterstein mountains, they come first.
 
 - Wilde Leck 
 	- East ridge (4) from Gries by bike
-- Habicht (by bike from Innsbruck in 10h round trip)
-	- by ski from North
+- Habicht 
+	- by bike from Innsbruck in 10h round trip
+	- by ski from north
 - Lisener Fernerkogel
 	- North ridge up and down
 - Peider Spitz
