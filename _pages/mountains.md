@@ -66,7 +66,7 @@ Since I grew up in the Wetterstein mountains, they come first.
 	- North ridge
 - Wannig (ski)
 - Hohe Wand
-	- East ridge from Karkopf (3)
+	- East ridge from Karkopf (3, solo)
 
 
 ## Karwendel
@@ -91,18 +91,18 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Kaskarspitz
 - Freiungspitzen (ski)
 - Erlspitz
+	- Erlscharte (ski)
 - Seefelder Spitz (ski)
 - Reither Spitz
-- Rumer Spitz (traverse)
-- Gleirschtaler Brandjoch
-- Hintere Brandjochspitz
-	- South ridge (3-)
 - Kemacher (ski)
 - Sattelspitzen
+- Rumer Spitz (traverse), Gleirschtaler Brandjoch, Mandlspitz
+- Hintere Brandjochspitz
+	- South ridge (3-, solo)
 - Hohe Warte
 	- South ridge (4)
 - Kleiner Solstein
-	- East ridge (3)
+	- East ridge (3, solo)
 - Pfeiserspitz (traverse)
 - Lamsenspitz
 	- Nord-Ost Kante (4+)
@@ -225,13 +225,12 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Grünbergspitz (ski by bike from Innsbruck)
 - Rosenjoch, Kreuzspitz (ski)
 - Glungezer (ski)
-- Morgenkogel (ski, nort east)
+- Morgenkogel (ski, north-east)
 - Viggarspitz, Neunerspitz
 - Gilfert
 - Haneburger (traverse from Volders by bike)
-- Tarntaler Köpfe
-- Lizumer Reckner
-- Lizumer Sonnenspitz
+- Tarntaler Köpfe by bike from Matrei
+- Lizumer Reckner and Lizumer Sonnenspitz
 - Hohe Warte
 - Bendelstein
 - Vennspitz
@@ -246,7 +245,7 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Wank, Fricken, Bischof lap
 - Frieder by bike from Garmisch-P.
 - Kuchelbergkamm, Kreuzspitz, Kreuzspitzl
-- a lot of others, like Daniel, Klammspitz, Scheinberg, Hochplatte, Notkarspitz, Hohe Kiste, ...
+- a lot of others, e.g. Daniel, Klammspitz, Scheinberg, Hochplatte, Notkarspitz, Hohe Kiste, ...
 
 
 ## et al
@@ -255,3 +254,5 @@ Since I grew up in the Wetterstein mountains, they come first.
 	- Westgrat (3)
 - Monte Cinto (Corse)
 - Kaimaktsalan
+
+and probably some other stuff I forgot.
