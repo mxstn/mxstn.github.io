@@ -1,10 +1,12 @@
 ---
 permalink: /mountains
 layout: page
-title: Mountaineering
+title: Alpinism
 ---
 
-Below I tried to collect more or less what I have done so far in the mountains. The list below does not include training laps and sessions, I only included more or less interesting things. Since I grew up in the Wetterstein mountains, they come first.
+Below I tried to collect more or less what I have done so far in the mountains. The list does not include training laps to minor peaks, I tried to only include more or less interesting things. Still, the list is getting less interesting further down - and surely, "real" alpinists are laughing about it ;)
+
+Since I grew up in the Wetterstein mountains, they come first.
 
 ## Wetterstein
 
