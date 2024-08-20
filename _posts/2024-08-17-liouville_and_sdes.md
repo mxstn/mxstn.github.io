@@ -101,7 +101,7 @@ Hence, given a SDE and $\nabla( \log \circ q(t, \cdot))$, where $q$ solves the a
 
 ## Appendix
 
-Let $\varphi^{t,0}(x)$ denote the flow of $Y$ (meaning $ \frac{\d}{\d t}\rvert_t \varphi^{t,0}(x) = Y(t, \varphi^{t, 0}(x)) $)
+Let $\varphi^{t,0}(x)$ denote the flow of $Y$ (meaning $ \frac{\d}{\d t}\eval_t \varphi^{t,0}(x) = Y(t, \varphi^{t, 0}(x)) $)
 and let $\mu_t = (\varphi^{t,0})_\ast \mu_0$. 
 
 The following lines are to show that $\mu_t$ solves \eqref{liouville} in distributional sense (at least locally where the flow exists).
@@ -110,7 +110,7 @@ Take some test function $\psi$ in space-time. Then we have
 
 $$
 \begin{align*}
-\frac{\d}{\d t}\rvert_t \psi(t, \varphi^{t,0}(x)) = \partial_t \psi(t,\varphi^{t,0}(x)) + \nabla_x \psi(t, \varphi^{t,0}(x)) \cdot Y(t, \varphi^{t, 0}(x)).
+\frac{\d}{\d t}\eval_t \psi(t, \varphi^{t,0}(x)) = \partial_t \psi(t,\varphi^{t,0}(x)) + \nabla_x \psi(t, \varphi^{t,0}(x)) \cdot Y(t, \varphi^{t, 0}(x)).
 \end{align*}
 $$
 
