@@ -173,7 +173,7 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Lisener Fernerkogel
 	- North ridge up and down
 - Peider Spitz
-	- Norh ridge via Schlossköpfe (3-)
+	- Norh ridge via Schlossköpfe (3)
 - Acherkogel
 	- North-east ridge (4) up and down
 - Ruderhofspitz (ski from south)
