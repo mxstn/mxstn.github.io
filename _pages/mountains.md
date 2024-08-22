@@ -4,7 +4,7 @@ layout: page
 title: Alpinism
 ---
 
-Below I tried to collect more or less what I have done so far in the mountains. The list does not include training laps to minor peaks, I tried to only include more or less interesting things. Still, the list is getting less interesting further down - and surely, "real" alpinists are laughing about it ;)
+Below I tried to collect more or less what I have done so far in the mountains. The list does not include training laps to minor peaks and multi-pitch climbs down in the valley; I tried only to include more or less interesting things. Still, the list is getting less interesting further down - and surely, "real" alpinists are laughing about it ;)
 
 Since I grew up in the Wetterstein mountains, they come first.
 
@@ -18,7 +18,7 @@ Since I grew up in the Wetterstein mountains, they come first.
 	- Zugspitz -> Alpspitz sub 3h
 	- new years eve bivy on top
 - Hochblassen
-	- Blassengrat (3) followed by Jubiläumsgrat
+	- Blassengrat (3) followed by Jubiläumsgrat (3-)
 - Partenkirchner Dreitorspitz
 	- traverse (3-, by bike from Garmisch-P.)
 - Leutascher Dreitorspitz (ski)
@@ -43,7 +43,7 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Hinterer Waxenstein
 	- traverse "Waxensteingrat" (3) from Gr. Waxenstein via Schönangerspitz, Riffelspitzen to Riffeltorkopf
 - Große Riffelwandspitz
-	- East ridge from Kleine Riffelwandspitz to Zugspitz (4-)
+	- traverse via east-ridge from Kleine Riffelwandspitz to Zugspitz (4-)
 - Riffeltorkopf
 	- Ettl-Platte (5+)
 	- Maus, Tiger, Käfer (4+)
@@ -52,7 +52,7 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Arnspitzen
 	- traverse
 - Zugspitz
-	- Jubiläumsgrat (3) four times, twice solo
+	- Jubiläumsgrat (3-) four times, twice solo
 		- Zugspitz -> Alpspitz sub 3h
 		- Blassengrat (3) followed by Jubiläumsgrat
 		- Adamplatte (4-) solo followed by Jubiläumsgrat
@@ -159,8 +159,7 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Ortler
 	- Hintergrat (4) from Sulden with fresh snow in autumn
 - Cevedale, Nördl. Zufallspitz (ski)
-- Cima Marmotta (ski)
-- Madritschspitz, Butzenspitz (ski)
+- Cima Marmotta, Madritschspitz, Butzenspitz (ski)
 
 
 ## Stubaier Alpen
@@ -173,7 +172,7 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Lisener Fernerkogel
 	- North ridge up and down
 - Peider Spitz
-	- Norh ridge via Schlossköpfe (3)
+	- Norh ridge via Schlossköpfe (3, solo)
 - Acherkogel
 	- North-east ridge (4) up and down
 - Ruderhofspitz (ski from south)
@@ -183,7 +182,7 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Kirchdachspitz, Hammerspitz, Wasenwand by bike from Steinach
 - Kesselspitz (ski)
 - Nockspitz 
-	- North couloir (ski)
+	- North couloir (ski, solo)
 - Ampferstein, Marchreisenspitz
 	- couloirs by ski
 - Hochtennspitz
