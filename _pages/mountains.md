@@ -162,6 +162,14 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Cima Marmotta, Madritschspitz, Butzenspitz (ski)
 
 
+## Silvretta and Verwall
+
+- Großlitzner, Großes Seehorn
+	- traverse (4)
+- Blankahorn 
+	- West ridge (3, solo)
+
+
 ## Stubaier Alpen
 
 - Wilde Leck 
