@@ -7,11 +7,11 @@ title: About
 My name is Max.
 Typically, I would describe myself as a mathematician, alpinist and research engineer.
 
-- mathematically, i am broadly interested in geometry, dynamics, probability and their interactions.
+- Mathematically, i am broadly interested in geometry, dynamics, probability and their interactions,
 
-- as a research engineer, i am interested in developments in machine learning.
+- as an alpinist, [my interests are mountaineering, climbing and ski-touring](https://mxstn.github.io/mountains) with a focus on the eastern alps,
 
-- finally, as an alpinist, [my interests are mountaineering, climbing and ski-touring](https://mxstn.github.io/mountains) with a focus on the eastern alps.
+- finally, as a research engineer, i am interested in developments in machine learning.
 
 My current homebase is Innsbruck, Tyrol. 
 
