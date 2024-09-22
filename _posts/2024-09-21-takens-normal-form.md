@@ -31,7 +31,7 @@ $$
 \psi_\ast(X) = X_s + g_{s+1} + \dots + g_l + R_l,
 $$
 
-where each $g_m \in G^m$ and $R_l$ has vanishing $l$-jet at 0.
+where each $g_m \in G^m$ and $R_l$ has vanishing $l$-jet.
 
 ## The proof
 
