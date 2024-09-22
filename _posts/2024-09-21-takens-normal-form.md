@@ -20,72 +20,93 @@ Finally, denote by $B^h$ the image of $ [ X_s, \cdot] \colon H^{h-s+1} \to H^h$ 
 ## The assertion
 
 For $l\ge k$ there exists a local diffeomorphism $\psi$ with $\psi(0) = 0$ such that
+
 $$
 \psi_\ast(X) = X_s + g_{s+1} + \dots + g_l + R_l,
 $$
+
 where each $g_m \in G^m$ and $R_l$ has vanishing $l$-jet at 0.
 
 ## The proof
 
 For $l = s$ the assertion holds, so we can proceed by induction. Assume we have given
+
 $$
 X = X_s + g_{s+1} + \dots + g_{l-1} + R_{l-1}.
 $$
+
 Then we can write $R_{l-1} = g_l + b_l + R_l$ for $g_l \in G^l, b_l \in B^l$, such that
+
 $$
 X = X_s + g_{s+1} + \dots + g_{l} + b_l + R_{l}.
 $$
+
 The goal is now to transform away the summand $b_l$.
 
 By the above construction there is $Y \in H^{l-s+1}$ such that $b_l = [X_s, Y]$. Now define
+
 $$
 X_t = \left( \varphi^t_Y \right)^\ast (X),
 $$
+
 where $\varphi^t_Y$ is the flow of $Y$. The claim is now that $X_{t=1}$ takes the desired form.
 
-### $X_{t=1}$ takes the desired form
+### proof: $X_{t=1}$ takes the desired form
 
 We want to employ a Taylor expansion for $X_t$ valid for $t \in [0,1]$. Note that $X_t$ is only missing the time derivative to be in the form of a Lie derivative.
 Now compute
+
 $$
 \begin{align*}
-\frac{\d}{\d t}\rvert_{t=\tau} X_t &= \frac{\d}{\d t}\rvert_{t=0} (\varphi^\tau_Y)^\ast X_t\\
+\frac{\d}{\d t}\leval_{t=\tau} X_t &= \frac{\d}{\d t}\leval_{t=0} (\varphi^\tau_Y)^\ast X_t\\
 &= \L_Y (\varphi^\tau_Y)^\ast X\\
 &= [Y, X_\tau]
 \end{align*}
 $$
+
 and observe that we can continue iteratively
+
 $$
 \begin{align*}
-\frac{\d}{\d t}\rvert_{t=\tau} [Y, X_t] &= \frac{\d}{\d t}\rvert_{t=0} (\varphi^\tau_Y)^\ast [Y, X_t]\\
+\frac{\d}{\d t}\leval_{t=\tau} [Y, X_t] &= \frac{\d}{\d t}\leval_{t=0} (\varphi^\tau_Y)^\ast [Y, X_t]\\
 &= \L_Y (\varphi^\tau_Y)^\ast [Y, X]\\
 &= [Y, [Y, X_\tau]].
 \end{align*}
 $$
+
 Hence the Taylor expansion of $X_t$ in $t$ is of the form
+
 $$
 X_t = X + t [Y, X_t] + \frac{t^2}{2} [Y, [Y, X_t]] + \dots
 $$
 
 Now
+
 $$
 \begin{align*}
 [Y, X_t] &= (\varphi^t_Y)^\ast [Y, X]\\
 &= (\varphi^t_Y)^\ast \left( [Y,X_s] + [Y, g_{s+1}] + \dots + [Y, R_l] \right),
 \end{align*}
 $$
+
 where $[Y,X_s] = - b_l$ and $[Y, g_{s+1}] + \dots + [Y, R_l]$ has a vanishing $l$-jet. Now one can again use a Taylor expansion of $[Y, X_t]$ in $t$
+
 $$
 [Y, X_t] = [Y, X] + t [Y, [Y, X_t]] + \dots
 $$ 
+
 to finally see that
+
 $$
 [Y, X_t] = -b_l + R_{l,t},
 $$
+
 where $R_{l,t}$ has a vanishing $l$-jet.
 
 Hence
+
 $$
 X_t = X - t b_l + \text{h. o. t.},
 $$
+
 so $X_1$ indeed takes the desired form $X_1 = X_s + g_{s+1} + \dots + g_{l} + R_{l}$.
