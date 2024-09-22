@@ -25,7 +25,7 @@ $$H^h = B^h \oplus G^h.$$
 
 ## The assertion
 
-For $l \le k$ there exists a local diffeomorphism $\psi$ with $\psi(0) = 0$ such that
+For $l \le k$ there exists a diffeomorphism $\psi$ with $\psi(0) = 0$ such that
 
 $$
 \psi_\ast(X) = X_s + g_{s+1} + \dots + g_l + R_l,
@@ -124,6 +124,6 @@ so $X_1$ indeed takes the desired form $X_1 = X_s + g_{s+1} + \dots + g_{l} + R_
 
 ## Conclusion
 
-For $l \le k < \infty$ the above procedure gives a finite series of local diffeomorphisms, i.e. local coordinate changes, such that their concatenation puts the vector field in the desired form.
+For $l \le k < \infty$ the above procedure gives a finite series of diffeomorphisms, i.e. local coordinate changes, such that their concatenation puts the vector field in the desired form.
 
-However, the theorem also holds for $l = k = \infty$, in which case we get an infinite series of local diffeomorphisms. In this case Borel's lemma can be used.
+However, the theorem also holds for $l = k = \infty$, in which case we get an infinite series of diffeomorphisms. In this case Borel's lemma can be used. The point there is that the $l-1$-jet of the above constructed diffeomorphism $\varphi^1_Y$ equals the $l-1$-jet of the identity.
