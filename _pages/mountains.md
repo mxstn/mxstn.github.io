@@ -4,9 +4,9 @@ layout: page
 title: Alpinism
 ---
 
-Below I tried to collect more or less what I have done so far in the mountains. The list does not include training laps to minor peaks and multi-pitch climbs down in the valley; I tried only to include more or less interesting things. Still, the list is getting less interesting further down - and surely, "real" alpinists are laughing about it ;)
+Below I tried to collect more or less what I have done so far in the mountains. The list does not include training laps to minor peaks and multi-pitch climbs down in the valley; I tried only to include more or less interesting things. Still, the list is getting less interesting further down - and surely, "real alpinists" are laughing about it ;)
 
-Since I grew up in the Wetterstein mountains, they come first.
+Sorting is done in mountain ranges in the eastern alps. Since I grew up in the Wetterstein mountains, they come first.
 
 ## Wetterstein
 
@@ -20,7 +20,7 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Hochblassen
 	- Blassengrat (3) followed by Jubiläumsgrat (3-)
 - Partenkirchner Dreitorspitz
-	- traverse (3-, by bike from Garmisch-P.)
+	- traverse (3-, solo by bike from Garmisch-P.)
 - Leutascher Dreitorspitz (ski)
 - Kämikopf, Kämitor, Schachentor (ski)
 - Wettersteinwand
@@ -55,7 +55,7 @@ Since I grew up in the Wetterstein mountains, they come first.
 	- Jubiläumsgrat (3-) four times, twice solo
 		- Zugspitz -> Alpspitz sub 3h
 		- Blassengrat (3) followed by Jubiläumsgrat
-		- Adamplatte (4-) solo followed by Jubiläumsgrat
+		- Adamplatte (4-, solo) followed by Jubiläumsgrat
 		
 		
 ## Mieminger Kette
@@ -178,11 +178,13 @@ Since I grew up in the Wetterstein mountains, they come first.
 	- by bike from Innsbruck in 10h round trip
 	- by ski from north
 - Lisener Fernerkogel
-	- North ridge up and down
+	- North ridge solo up and down
 - Peider Spitz
 	- Norh ridge via Schlossköpfe (3, solo)
 - Acherkogel
 	- North-east ridge (4) up and down
+- Wilder Freiger
+	- traverse from Aperer Freiger, solo
 - Ruderhofspitz (ski from south)
 - Hinterer Brunnenkogel (ski)
 - Wörgegratspitz (ski)
@@ -210,6 +212,7 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Rosskogel (ski)
 - Rietzer Grißekogel (ski)
 - Pirchkogel (ski)
+- Obernberger Tribulaun and Schwarze Wand in fresh snow
 
 
 ## Lechtaler Alpen
@@ -264,4 +267,4 @@ Since I grew up in the Wetterstein mountains, they come first.
 - Monte Cinto (Corse)
 - Kaimaktsalan
 
-and probably some other stuff I forgot.
+and probably some more I forgot in the above list.
