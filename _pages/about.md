@@ -15,7 +15,7 @@ Typically, I would describe myself as a mathematician, mountain enthusiast and r
 
 My current homebase is Innsbruck, Tyrol. 
 
-I hold a MSc in mathematics from the Technical University of Munich (TUM). Then I started a PhD in mathematics (with C. Kuehn; multiscale and stochastic dynamics) at TUM, which is yet to be completed. Currently, I am working at MED-EL.
+I hold a MSc in mathematics from the Technical University of Munich (TUM). Subsequently, I started a PhD in mathematics at TUM ([with C. Kuehn; multiscale and stochastic dynamics](https://multiscale.systems)), which is yet to be completed. Currently, I am working at MED-EL.
 
 You can reach me via [5-letter-blog-title][at]icloud.com
 
