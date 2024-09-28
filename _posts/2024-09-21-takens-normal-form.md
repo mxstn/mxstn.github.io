@@ -28,7 +28,10 @@ $$H^h = B^h \oplus G^h.$$
 For $l \le k$ there exists a diffeomorphism $\psi$ with $\psi(0) = 0$ such that
 
 $$
+\begin{equation}
+\label{thm}
 \psi_\ast(X) = X_s + g_{s+1} + \dots + g_l + R_l,
+\end{equation}
 $$
 
 where each $g_m \in G^m$ and $R_l$ has vanishing $l$-jet.
@@ -49,15 +52,15 @@ $$
 
 The goal is now to transform the summand $b_l$ away.
 
-By the above construction there is $Y \in H^{l-s+1}$ such that $b_l = [X_s, Y]$. Now define
+By the above construction there is $Y \in H^{l-s+1}$ such that $b_l = [X_s, Y]$. We now define
 
 $$
 X_t = \left( \varphi^t_Y \right)^\ast (X),
 $$
 
-where $\varphi^t_Y$ is the flow of $Y$. The claim is now that $X_{t=1}$ takes the desired form.
+where $\varphi^t_Y$ is the flow of $Y$. The claim is now that $X_{t=1}$ takes the desired form of \eqref{thm}.
 
-### proof: $X_{t=1}$ does  the job
+### remaining proof: $X_{t=1}$ does  the job
 
 We want to employ a Taylor expansion for $X_t$ valid for $t \in [0,1]$. First, note that the definition of $X_t$ is only missing the time derivative to be in the form of a Lie derivative.
 
@@ -124,6 +127,6 @@ so $X_1$ indeed takes the desired form $X_1 = X_s + g_{s+1} + \dots + g_{l} + R_
 
 ## Conclusion
 
-For $l \le k < \infty$ the above procedure gives a finite series of diffeomorphisms, i.e. local coordinate changes, such that their concatenation puts the vector field in the desired form.
+For $l \le k < \infty$ the above procedure gives a finite series of diffeomorphisms, i.e. coordinate changes, such that their concatenation puts the vector field in the desired form.
 
 However, the theorem also holds for $l = k = \infty$, in which case we get an infinite series of diffeomorphisms. In this case Borel's lemma can be used. The point there is that the $l-1$-jet of the above constructed diffeomorphism $\varphi^1_Y$ equals the $l-1$-jet of the identity.
