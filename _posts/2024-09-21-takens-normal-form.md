@@ -98,7 +98,7 @@ $$
 \end{align*}
 $$
 
-where $[Y,X_s] = - b_l$ and $[Y, g_{s+1}] + \dots + [Y, R_l]$ has a vanishing $l$-jet. Similarly, it follows that the remaining summands are higher order.
+where $[Y,X_s] = - b_l$ and $[Y, g_{s+1}] + \dots + [Y, R_l]$ has a vanishing $l$-jet. Similarly, it follows that the remaining summands of the Taylor expansion are higher order. 
 
 Hence
 
