@@ -98,12 +98,12 @@ $$
 \end{align*}
 $$
 
-where $[Y,X_s] = - b_l$ and $[Y, g_{s+1}] + \dots + [Y, R_l]$ has a vanishing $l$-jet. 
+where $[Y,X_s] = - b_l$ and $[Y, g_{s+1}] + \dots + [Y, R_l]$ has a vanishing $l$-jet. Similarly, it follows that the remaining summands are higher order.
 
 Hence
 
 $$
-X_t = X - t b_l + + R_{l,t},
+X_t = X - t b_l + R_{l,t},
 $$
 
 where $R_{l,t}$ has vanishing $l$-jet.
