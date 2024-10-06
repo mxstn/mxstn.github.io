@@ -62,9 +62,7 @@ where $\varphi^t_Y$ is the flow of $Y$. The claim is now that $X_{t=1}$ takes th
 
 ### remaining proof: $X_{t=1}$ does  the job
 
-We want to employ a Taylor expansion for $X_t$ valid for $t \in [0,1]$. First, note that the definition of $X_t$ is only missing the time derivative to be in the form of a Lie derivative.
-
-Now compute
+We want to employ a Taylor expansion for $X_t$ valid for $t \in [0,1]$. First, note that the definition of $X_t$ is only missing the time derivative to be in the form of a Lie derivative. We have
 
 $$
 \begin{align*}
@@ -84,46 +82,33 @@ $$
 \end{align*}
 $$
 
-Hence the Taylor expansion of $X_t$ in $t$ is of the form
+Hence the Taylor expansion of $X_t$ in $t$ based at $t=0$ is of the form
 
 $$
-X_t = X + t [Y, X_t] + \frac{t^2}{2} [Y, [Y, X_t]] + \dots
+X_t = X + t [Y, X] + \frac{t^2}{2} [Y, [Y, X]] + \dots
 $$
 
-and equality holds for $t \in [0,1]$ by adding an appropriate (higher-order) remainder term.
+and equality holds for $t \in [0,1]$ by adding an appropriate higher-order remainder term.
 
 Now
 
 $$
 \begin{align*}
-[Y, X_t] &= (\varphi^t_Y)^\ast [Y, X]\\
-&= (\varphi^t_Y)^\ast \left( [Y,X_s] + [Y, g_{s+1}] + \dots + [Y, R_l] \right),
+[Y, X] = [Y,X_s] + [Y, g_{s+1}] + \dots + [Y, R_l],
 \end{align*}
 $$
 
 where $[Y,X_s] = - b_l$ and $[Y, g_{s+1}] + \dots + [Y, R_l]$ has a vanishing $l$-jet. 
 
-Now one can again use a Taylor expansion of $[Y, X_t]$ in $t$
+Hence
 
 $$
-[Y, X_t] = [Y, X] + t [Y, [Y, X_t]] + \dots
-$$ 
-
-to finally see that
-
-$$
-[Y, X_t] = -b_l + R_{l,t},
+X_t = X - t b_l + + R_{l,t},
 $$
 
 where $R_{l,t}$ has vanishing $l$-jet.
 
-Hence
-
-$$
-X_t = X - t b_l + \text{h. o. t.},
-$$
-
-so $X_1$ indeed takes the desired form $X_1 = X_s + g_{s+1} + \dots + g_{l} + R_{l}$.
+So $X_1$ indeed takes the desired form $X_1 = X_s + g_{s+1} + \dots + g_{l} + R_{l}$.
 
 ## Conclusion
 
