@@ -4,9 +4,12 @@ layout: page
 title: Alpinism
 ---
 
-Below I tried to collect more or less what I have done so far in the mountains. The list does not include training laps to minor peaks and multi-pitch climbs down in the valley; I tried only to include more or less interesting things. Still, the list is getting less interesting further down - and surely, "real alpinists" are laughing about it ;)
+In winter I like to do ski-touring, in summer I mostly focus on ridge scrambling or light alpine climbs. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 3 and orientation/navigation in pathless, alpine environment.
 
-Sorting is done in mountain ranges in the eastern alps. Since I grew up in the Wetterstein mountains, they come first.
+Below I tried to collect more or less what I have done so far in the mountains. The list does not include training laps to minor peaks and multi-pitch climbs down in the valley; 
+
+The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein are my home mountains, they come first :)
+
 
 ## Wetterstein
 
@@ -67,20 +70,12 @@ Sorting is done in mountain ranges in the eastern alps. Since I grew up in the W
 - Wannig (ski)
 - Hohe Wand
 	- East ridge from Karkopf (3, solo)
+- Grünstein (east ridge traverse)
 
 
 ## Karwendel
 
-- Große Seekarspitz (ski)
-- Pleisenspitz (ski)
-- Kaltwasserkarspitz (by bike from Garmisch-P.)
-- Ödkarspitz
-- Birkkarspitzen
-- Östl. Karwendelspitz
-- Rotwandlspitz
-- Wörner
-- Soiernspitz (traverse from Seinskopf)
-- Kreuzspitz
+- Kreuzwand
 	- East ridge (3)
 	- MaMa Kante (5)
 	- Joe Muff (4+)
@@ -88,15 +83,6 @@ Sorting is done in mountain ranges in the eastern alps. Since I grew up in the W
 	- South-west ridge (5+)
 - Gerberkreuz
 	- South-west ridge (4)
-- Kaskarspitz
-- Freiungspitzen (ski)
-- Erlspitz
-	- Erlscharte (ski)
-- Seefelder Spitz (ski)
-- Reither Spitz
-- Kemacher (ski)
-- Sattelspitzen
-- Rumer Spitz (traverse), Gleirschtaler Brandjoch, Mandlspitz
 - Hintere Brandjochspitz
 	- South ridge (3-, solo)
 - Hohe Warte
@@ -107,12 +93,31 @@ Sorting is done in mountain ranges in the eastern alps. Since I grew up in the W
 - Lamsenspitz
 	- Nord-Ost Kante (4+)
 - Hintere Bachofenspitze
-	- traverse from Stempeljochspitz, Roßkopf (3)
-- Grubenkarspitz
+	- traverse from Stempeljochspitz via Roßkopf (3)
 - Fiechter Spitz
 	- traverse to Mittagsspitz, Schneekopf (3)
 - Großer Bettelwurf
 	- Osteck (3)
+	
+- Große Seekarspitz (ski)
+- Pleisenspitz (ski)
+- Freiungspitzen (ski)
+- Erlscharte (ski)
+- Seefelder Spitz (ski)
+- Kemacher (ski)
+- Grubenkarspitz
+- Kaltwasserkarspitz (by bike from Garmisch-P.)
+- Ödkarspitz
+- Birkkarspitzen
+- Östl. Karwendelspitz
+- Rotwandlspitz - Westl. Karwendelspitz traverse
+- Erlspitz
+- Wörner
+- Soiernspitz (traverse from Seinskopf)
+- Kaskarspitz
+- Sattelspitzen
+- Reither Spitz
+- Rumer Spitz (traverse), Gleirschtaler Brandjoch, Mandlspitz
 
 
 ## Zillertaler Alpen
@@ -212,7 +217,7 @@ Sorting is done in mountain ranges in the eastern alps. Since I grew up in the W
 - Rosskogel (ski)
 - Rietzer Grißekogel (ski)
 - Pirchkogel (ski)
-- Obernberger Tribulaun and Schwarze Wand in fresh snow
+- Obernberger Tribulaun and Schwarze Wand in fresh autumn snow
 
 
 ## Lechtaler Alpen
