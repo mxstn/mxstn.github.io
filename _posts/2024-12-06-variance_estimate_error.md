@@ -1,11 +1,9 @@
 ---
-title: "Variance Estimate Error"
+title: "Variance estimate error"
 date: 2024-12-06
 ---
 
-# Estimating the variance of a normal distribution
-
-Suppose we have a couple of probabilistic samples (say $N$) drawn from a normal distribution. We can estimate the variance of the underlying normal distribution by the sample variance
+Suppose we have a couple of probabilistic samples (say $N$ samples $X_1, \dots, X_N$ ) drawn from a normal distribution. We can estimate the variance of the underlying normal distribution by the sample variance
 
 $$
 Z = \frac{1}{N - 1} \sum_{i = 1}^N (X_i - \bar{X})^2,
@@ -17,10 +15,10 @@ A natural question is now: What error to the true variance do we need to expect 
 
 Or more precisely, can we give an interval about the true variance, in which the sampled variance will be contained with $x\%$ probability?
 
-At first, this question might seem tricky, but it gets extremely simple as one knows the
+At first, this question might seem tricky, but it gets simpler if one knows the
 
 
-## Distribution of the sample variance
+# Distribution of the sample variance
 
 A standard, but very useful fact is that the appropriately scaled sample variance (as a random variable) is distributed according to a chi-squared distribution:
 
@@ -32,18 +30,18 @@ where $\sigma^2$ is the true variance of the normal distribution we sampled from
 
 But we are interested in the distribution of $Z$ only! Let's get rid of the pre-factors by finding the probability density of $Z$.
 Recall that we are dealing with random variables. Denote $Y = \frac{N-1}{\sigma^2} Z$, and by the above result we know the distribution of $Y$.
-Then the CDF of $Z$ is given by $p(Z \le z) = p(\frac{\sigma^2}{N-1} Y \le z) = p(Y \le \frac{N-1}{\sigma^2} z)$ and hence we get that the probability density of $Z$ is given by
+Then the CDF of $Z$ is given by $p(Z \le z) = p(\frac{\sigma^2}{N-1} Y \le z) = p(Y \le \frac{N-1}{\sigma^2} z)$. One can then see that in fact $Z$ obeys a Gamma distribution with shape $(N-1)/2$ and rate $\frac{N - 1}{2 \sigma^2}$:
 
 $$
-z \mapsto \frac{N-1}{\sigma^2} \text{pdf}_Y\left( \frac{N-1}{\sigma^2} z \right),
+Z \sim \text{Gamma}((N-1)/2, \frac{N - 1}{2 \sigma^2}).
 $$
 
-where $\text{pdf}_Y$ is the known density of $Y \sim \chi^2_{N-1}$. Note that we now know the distribution of $Z$ itself and can infer any information about the uncertainty in $Z$.
+Note that we can now infer information about the uncertainty in $Z$.
 
-## But wait!?
+# But wait!?
 
 Can we say something like: for $N$ drawn samples, the estimated sample variance $Z$ will be within an error of $\pm y\%$ of the true variance with $x\%$ probability?
 
-Roughly, this can be done by employing the quantile function of $Z$, although this does in general not give a symmetric interval about the true variance. Further, the quantiles need to be chosen such that the true variance actually IS contained in the chosen quantile range.
+Roughly, this can be done by employing the quantile function of $Z$, although this does in general not give a symmetric interval about the true variance. Further, the quantiles need to be chosen such that the true variance actually IS contained in the chosen quantile range. But the thing is that we usually do not know the value of $\sigma^2$.
 
 tbc.
