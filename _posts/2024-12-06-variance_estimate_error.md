@@ -33,7 +33,7 @@ Recall that we are dealing with random variables. Denote $Y = \frac{N-1}{\sigma^
 Then the CDF of $Z$ is given by $p(Z \le z) = p(\frac{\sigma^2}{N-1} Y \le z) = p(Y \le \frac{N-1}{\sigma^2} z)$. One can then see that in fact $Z$ obeys a Gamma distribution with shape $(N-1)/2$ and rate $\frac{N - 1}{2 \sigma^2}$:
 
 $$
-Z \sim \text{Gamma}((N-1)/2, \frac{N - 1}{2 \sigma^2}).
+Z \sim \text{Gamma}\left( \frac{N-1}{2}, \frac{N - 1}{2 \sigma^2} \right).
 $$
 
 Note that we can now infer information about the uncertainty in $Z$.
@@ -44,4 +44,11 @@ Can we say something like: for $N$ drawn samples, the estimated sample variance 
 
 Roughly, this can be done by employing the quantile function of $Z$, although this does in general not give a symmetric interval about the true variance. Further, the quantiles need to be chosen such that the true variance actually IS contained in the chosen quantile range. But the thing is that we usually do not know the value of $\sigma^2$.
 
-tbc.
+However, note that the variance $\sigma^2$ is the mean of
+
+$$
+Z \sim \text{Gamma}\left( \frac{N-1}{2}, \frac{N - 1}{2 \sigma^2} \right).
+$$
+
+I claim that we can safely assume $\sigma^2 = 1$ to obtain a statement in the above form that holds for all values of $\sigma^2$. 
+This post is to be completed another day, tbc.
