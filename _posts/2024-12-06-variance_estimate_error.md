@@ -63,7 +63,7 @@ $$
 
 First, note that this immediately implies that $\sigma^2$ is the $q$-quantile of $Z$, where $q = \frac{1}{\Gamma({N-1}/{2})}\gamma({N-1}/{2}, {N-1}/{2})$. This quantile does not depend on $\sigma^2$, only on $N$! So for fixed $N$, we can choose a quantile range $(q_1, q_2)$ with $0 < q_1 < q < q_2 < 1$, which covers $x\%$ of all variance estimates, independent of the value of the true variance.
 
-Let $q_1 = \mathop{cdf}_Z (x_1)$ and $q_2 = \mathop{cdf}_Z(x_2)$ for some value of $\sigma^2$.
+Let $q_1 = \textrm{cdf}_Z (x_1)$ and $q_2 = \textrm{cdf}_Z(x_2)$ for some value of $\sigma^2$.
 Finally, note that the ratios $\frac{x_1}{\sigma^2}$ and $\frac{x_2}{\sigma^2}$ are in fact independent of $\sigma^2$!
 
 To see this, consider two different $\sigma^2$ and $\tilde{\sigma}^2$, and let $f = \tilde{\sigma}^2 / \sigma^2$. Let $\tilde{Z}$ be a random variable as in $\eqref{Ze}$, but with $\sigma^2$ replaced by $\tilde{\sigma}^2$. 
@@ -71,8 +71,8 @@ Then with the above given CDF one can directly check that
 
 $$
 \begin{align*}
-q_{1} &= \mathop{cdf}_Z (x_1) = \mathop{cdf}_{\tilde{Z}}(f\cdot x_1),\\
-q_2 &= \mathop{cdf}_Z (x_2) = \text{cdf}_{\tilde{Z}}(f \cdot x_2),
+q_{1} &= \textrm{cdf}_Z (x_1) = \textrm{cdf}_{\tilde{Z}}(f\cdot x_1),\\
+q_2 &= \textrm{cdf}_Z (x_2) = \textrm{cdf}_{\tilde{Z}}(f \cdot x_2),
 \end{align*}
 $$
 
@@ -80,7 +80,7 @@ from which the claim follows.
 
 # Conclusion
 
-Having $N$ samples from a normal distribution, we can construct an interval of the form $(y_1\%\, \text{of true variance}, y_2\%\, \text{of true variance})$, in which the sample variance estimate lies with $x\%$ probability.
+Having $N$ samples from a normal distribution, we can construct an interval of the form $(y_1\%\, \textrm{of true variance}, y_2\%\, \textrm{of true variance})$, in which the sample variance estimate lies with $x\%$ probability.
 
 As an example, which is quickly computed in a python notebook, for $N=10$ we have that with $70\%$ probability, our variance estimate is below an error of roughly true variance $\pm 47\%$, as can be seen in the following plot.
 
