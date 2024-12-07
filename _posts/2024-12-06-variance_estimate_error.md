@@ -44,11 +44,34 @@ Can we say something like: for $N$ drawn samples, the estimated sample variance 
 
 Roughly, this can be done by employing the quantile function of $Z$, although this does in general not give a symmetric interval about the true variance. Further, the quantiles need to be chosen such that the true variance actually IS contained in the chosen quantile range. But the thing is that we usually do not know the value of $\sigma^2$.
 
-However, note that the variance $\sigma^2$ is the mean of
+It turns out that the value of $\sigma^2$ does not matter.
+
+Recall that
 
 $$
-Z \sim \text{Gamma}\left( \frac{N-1}{2}, \frac{N - 1}{2 \sigma^2} \right).
+\begin{equation}
+\label{Ze}
+Z \sim \text{Gamma}\left( \frac{N-1}{2}, \frac{N - 1}{2 \sigma^2} \right),
+\end{equation}
 $$
 
-I claim that we can safely assume $\sigma^2 = 1$ to obtain a statement in the above form that holds for all values of $\sigma^2$. 
-This post is to be completed another day, tbc.
+where $\Gamma(\alpha, \beta)$ has a CDF given by
+
+$$
+x \mapsto \frac{1}{\Gamma(\alpha)}\gamma(\alpha, \beta x).
+$$
+
+First note that this immediately implies that $\sigma^2$ is the $q$-quantile of $Z$, where $q = \frac{1}{\Gamma({N-1}/{2})}\gamma({N-1}/{2}, {N-1}/{2})$. This quantile does not depend on $\sigma^2$, only on $N$. So for fixed $N$, we can choose a quantile range $(q_1, q_2)$ with $0 < q_1 < q < q_2 < 1$, which covers $x\%$ of all variance estimates.
+
+Let $q_1 = \text{cdf}_Z (x_1)$ and $q_2 = \text{cdf}_Z(x_2)$ for some value of $\sigma^2$.
+Finally, note that the ratios $\frac{x_1}{\sigma^2}$ and $\frac{x_2}{\sigma^2}$ are in fact independent of $\sigma^2$!
+
+To see this, consider two different $\sigma^2$ and $\tilde{\sigma}^2$, and let $f = \tilde{\sigma}^2 / \sigma^2$. Let $\tilde{Z}$ be a random variable as in $\eqref{Ze}$, but with $\sigma^2$ replaced by $\tilde{\sigma}^2$. Then $q_1 = \text{cdf}_Z (x_1) = \text{cdf}_{\tilde{Z}}(f\cdot x_1)$ and $q_2 = \text{cdf}_{\tilde{Z}}(f \cdot x_2)$, from which the claim follows.
+
+# Conclusion
+
+Having $N$ samples from a normal distribution, we can construct an interval of the form $(y_1\% of true variance, y_2\% of true variance)$, in which the sample variance estimate lies with $x\%$ probability.
+
+As an example, which is quickly computed in a python notebook, for $N=10$ we have that with $70\%$ probability, our variance estimate is below an error of roughly true variance $\pm 47\%$, as can be seen in the following plot.
+
+<img src="../assets/img/variance_estimate_error.png" alt="me" width="100%" oncontextmenu="return false;"/>
