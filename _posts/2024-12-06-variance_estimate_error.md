@@ -64,7 +64,7 @@ $$
 First, note that this immediately implies that $\sigma^2$ is the $q$-quantile of $Z$, where $q = \frac{1}{\Gamma({N-1}/{2})}\gamma({N-1}/{2}, {N-1}/{2})$. This quantile does not depend on $\sigma^2$, only on $N$! So for fixed $N$, we can choose a quantile range $(q_1, q_2)$ with $0 < q_1 < q < q_2 < 1$, which covers $x\%$ of all variance estimates, independent of the value of the true variance.
 
 Let $q_1 = \textrm{cdf}_Z (x_1)$ and $q_2 = \textrm{cdf}_Z(x_2)$ for some value of $\sigma^2$.
-Finally, note that the ratios $\frac{x_1}{\sigma^2}$ and $\frac{x_2}{\sigma^2}$ are in fact independent of $\sigma^2$!
+Finally, the ratios $\frac{x_1}{\sigma^2}$ and $\frac{x_2}{\sigma^2}$ are in fact constants, and as such independent of the explicit value of the true variance!
 
 To see this, consider two different $\sigma^2$ and $\tilde{\sigma}^2$, and let $f = \tilde{\sigma}^2 / \sigma^2$. Let $\tilde{Z}$ be a random variable as in $\eqref{Ze}$, but with $\sigma^2$ replaced by $\tilde{\sigma}^2$. 
 Then with the above given CDF one can directly check that
