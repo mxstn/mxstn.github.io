@@ -173,6 +173,8 @@ The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein
 	- traverse (4)
 - Blankahorn 
 	- West ridge (3, solo)
+- Dreiländerspitze (ski)
+- Mittlerer Chalauskopf (ski)
 
 
 ## Stubaier Alpen
@@ -269,6 +271,7 @@ The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein
 
 - Guffert 
 	- Westgrat (3)
+- Rothorn (Bregenzer Wald; ski)
 - Monte Cinto (Corse)
 - Kaimaktsalan
 
