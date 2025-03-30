@@ -6,6 +6,8 @@ title: Alpinism
 
 In winter I like to do ski-touring, in summer I mostly focus on ridge scrambling or light alpine climbs. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 3 and orientation/navigation in pathless, alpine environment.
 
+<img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
+
 Below I tried to collect more or less what I have done so far in the mountains. The list does not include training laps to minor peaks and multi-pitch climbs down in the valley; 
 
 The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein are my home mountains, they come first :)
