@@ -23,7 +23,7 @@ The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein
 - Hochblassen
 	- Blassengrat (3) followed by Jubiläumsgrat (3-)
 - Partenkirchner Dreitorspitz
-	- traverse (3-, solo by bike from Garmisch-P.)
+	- traverse (3-, solo by bike from Garmisch-P. in sub 8h round trip)
 - Leutascher Dreitorspitz (ski)
 - Kämikopf, Kämitor, Schachentor (ski)
 - Wettersteinwand
@@ -56,7 +56,7 @@ The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein
 	- traverse
 - Zugspitz
 	- Jubiläumsgrat (3-) four times, twice solo
-		- Zugspitz -> Alpspitz sub 3h
+		- Zugspitz -> Alpspitz in sub 3h
 		- Blassengrat (3) followed by Jubiläumsgrat
 		- Adamplatte (4-, solo) followed by Jubiläumsgrat
 		
@@ -66,11 +66,12 @@ The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein
 - Ehrwalder Sonnenspitz
 - Igelskopf Hüttenrinne (ski)
 - Wampeter Schrofen
-	- North ridge
+	- North ridge (solo)
 - Wannig (ski)
 - Hohe Wand
 	- East ridge from Karkopf (3, solo)
-- Grünstein (east ridge traverse)
+- Grünstein 
+	- Eeast ridge traverse
 
 
 ## Karwendel
@@ -84,7 +85,7 @@ The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein
 - Gerberkreuz
 	- South-west ridge (4)
 - Hintere Brandjochspitz
-	- South ridge (3-, solo)
+	- South ridge (3-, solo, round trip from Innsbruck in 5h 23min)
 - Hohe Warte
 	- South ridge (4)
 - Kleiner Solstein
@@ -93,11 +94,12 @@ The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein
 - Lamsenspitz
 	- Nord-Ost Kante (4+)
 - Hintere Bachofenspitze
-	- traverse from Stempeljochspitz via Roßkopf (3)
+	- traverse from Stempeljochspitz via Roßkopf (3) (from Innsbruck by bike in 10h round trip)
 - Fiechter Spitz
 	- traverse to Mittagsspitz, Schneekopf (3)
 - Großer Bettelwurf
 	- Osteck (3)
+	- Normalweg from Innsbruck by bike in 7h round trip
 	
 - Große Seekarspitz (ski)
 - Pleisenspitz (ski)
