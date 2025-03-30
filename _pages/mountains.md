@@ -130,6 +130,7 @@ The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein
 	- Gigalitzturm South-east (5-)
 - Hoher Weißzint
 	- East ridge (3) from Neves lake
+- Großer Kaserer traverse (ski)
 
 
 ## Hohe Tauern
@@ -141,9 +142,10 @@ The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein
 ## Ötztaler Alpen
 
 - Watzespitz
-	- East ridge (4) up and down from Plangeross
+	- East ridge (4) up and down from Plangeross in 11h
+- Rofelewand (ski)
 - Hoher First (ski)
-- Wildspitz (ski by bike from Mandarfen)
+- Wildspitz (bike&ski from Mandarfen)
 - Hinterer Brochkogel (ski)
 
 
@@ -200,8 +202,8 @@ The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein
 - Kesselspitz (ski)
 - Nockspitz 
 	- North couloir (ski, solo)
-- Ampferstein, Marchreisenspitz
-	- couloirs by ski
+	- West couloir (ski, solo)
+- Marchreisenspitz, Ampferstein (ski)
 - Hochtennspitz
 - Angerbergkopf (ski)
 - Rinnenspitz

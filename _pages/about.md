@@ -7,7 +7,7 @@ title: About
 My name is Max.
 Typically, I would describe myself as a mathematician, mountain enthusiast and research engineer.
 
-- Mathematically,I am broadly interested in geometry, dynamics, probability and their interactions,
+- Mathematically, I am broadly interested in geometry, dynamics, probability and their interactions,
 
 - as a mountain enthusiast, [my interests are mountaineering, climbing and ski-touring](https://mxstn.github.io/mountains) with a focus on the eastern alps,
 
