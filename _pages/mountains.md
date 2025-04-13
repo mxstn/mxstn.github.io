@@ -134,7 +134,9 @@ The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein
 	- Gigalitzturm South-east (5-)
 - Hoher Weißzint
 	- East ridge (3) from Neves lake
+- Olperer north ridge (ski)
 - Großer Kaserer traverse (ski)
+- Reichenspitze (ski)
 
 
 ## Hohe Tauern
