@@ -4,13 +4,15 @@ layout: page
 title: Alpinism
 ---
 
-In winter I like to do ski-touring, in summer I mostly do ridge scrambling or light alpine climbs. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 3 and orientation/navigation in pathless, alpine environment.
+I am a mountain enthusiast currently living in Innsbruck, Tyrol.
+
+In winter I like to do ski-touring, in summer I enjoy ridge scrambling or light alpine climbs. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 3 and orientation/navigation in pathless, alpine environment.
 
 <img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
 
-Below I tried to collect more or less what I have done so far in the mountains. The list does not include training laps to minor peaks and multi-pitch climbs down in the valley; 
+Below, I tried to collect more or less what I have done so far in the mountains. I am grateful for all the friends that joined on most of these adventures, and the amazing times that we shared together :)
 
-The list is sorted by mountain ranges in the eastern alps. Since the Wetterstein are my home mountains, they come first :)
+The list below does not include training laps to minor peaks and multi-pitch climbs down in the valley; further it is sorted by mountain ranges in the eastern alps. Since the Wetterstein range are my home mountains, they come first :)
 
 
 ## Wetterstein
