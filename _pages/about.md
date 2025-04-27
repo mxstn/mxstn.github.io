@@ -10,7 +10,7 @@ My name is Max. I am a mathematician, mountain enthusiast and research engineer.
 
 - as a mountain enthusiast, I like to be outside with friends, mostly [mountaineering, climbing and ski-touring](https://mxstn.github.io/mountains),
 
-- finally, as a research engineer, I am interested in developments in machine learning.
+- finally, as a research engineer, I am interested in python, statistics and developments in machine learning.
 
 My current homebase is Innsbruck, Tyrol. 
 
