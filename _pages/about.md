@@ -9,7 +9,7 @@ Typically, I would describe myself as a mathematician, mountain enthusiast and r
 
 - Mathematically, I am broadly interested in geometry, dynamics, probability and their interactions,
 
-- as a mountain enthusiast, [my interests are mountaineering, climbing and ski-touring](https://mxstn.github.io/mountains) with a focus on the eastern alps,
+- as a mountain enthusiast, my interests are being outside in great company, mostly [mountaineering, climbing and ski-touring](https://mxstn.github.io/mountains),
 
 - finally, as a research engineer, I am interested in developments in machine learning.
 

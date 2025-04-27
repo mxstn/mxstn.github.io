@@ -4,7 +4,7 @@ layout: page
 title: Alpinism
 ---
 
-In winter I like to do ski-touring, in summer I mostly focus on ridge scrambling or light alpine climbs. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 3 and orientation/navigation in pathless, alpine environment.
+In winter I like to do ski-touring, in summer I mostly do ridge scrambling or light alpine climbs. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 3 and orientation/navigation in pathless, alpine environment.
 
 <img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
 
