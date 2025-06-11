@@ -104,6 +104,7 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 - Großer Bettelwurf
 	- Osteck (3)
 	- Normalweg from Innsbruck by bike in 7h round trip
+-  Fallbachkarspitz Südgrat (3)
 	
 - Große Seekarspitz (ski)
 - Pleisenspitz (ski)
@@ -153,6 +154,8 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 	- East ridge (4) up and down from Plangeross in 11h
 - Rofelewand (ski)
 - Hoher First (ski)
+- Granatenkogel (ski)
+- Königskogel from west (ski)
 - Wildspitz (bike&ski from Mandarfen)
 - Hinterer Brochkogel (ski)
 
