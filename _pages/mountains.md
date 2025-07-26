@@ -6,7 +6,7 @@ title: Alpinism
 
 I am a mountain enthusiast currently living in Innsbruck, Tyrol.
 
-In winter I like to do ski-touring, in summer I enjoy ridge scrambling or light alpine climbs. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and orientation/navigation in pathless, alpine environment.
+In winter I like to do ski-touring, in summer I enjoy ridge scrambling or light alpine climbs. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and navigation through pathless, alpine environment.
 
 <img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
 
@@ -104,7 +104,8 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 - Großer Bettelwurf
 	- Osteck (3)
 	- Normalweg from Innsbruck by bike in 7h round trip
--  Fallbachkarspitz Südgrat (3)
+-  Fallbachkarspitz 
+	- South ridge (3, solo)
 	
 - Große Seekarspitz (ski)
 - Pleisenspitz (ski)
@@ -140,6 +141,8 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 - Olperer north ridge (ski)
 - Großer Kaserer traverse (ski)
 - Reichenspitze (ski)
+- Fußstein 
+	- West ridge "Hüttengrat" (4)
 
 
 ## Hohe Tauern
@@ -156,7 +159,9 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 - Hoher First (ski)
 - Granatenkogel (ski)
 - Königskogel from west (ski)
-- Wildspitz (bike&ski from Mandarfen)
+- Wildspitz 
+	- bike&ski from Mandarfen
+	- Jubiläumsgrat (north-east ridge) traverse
 - Hinterer Brochkogel (ski)
 
 
@@ -165,7 +170,7 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 - Cima dal Cantun
 	- traverse via Caciadur, Scälin (3)
 - Piz Balzet
-	- south ridge (4+)
+	- South ridge (4+)
 - Piz Bernina
 	- Bianco ridge (3)
 - Piz Palü 
@@ -188,6 +193,8 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 	- West ridge (3, solo)
 - Dreiländerspitze (ski)
 - Mittlerer Chalauskopf (ski)
+- Patteriol
+	- North-east ridge (4)
 
 
 ## Stubaier Alpen
@@ -201,10 +208,13 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 	- North ridge solo up and down
 - Peider Spitz
 	- Norh ridge via Schlossköpfe (3, solo)
+	- East ridge
 - Acherkogel
 	- North-east ridge (4) up and down
 - Wilder Freiger
 	- traverse from Aperer Freiger, solo
+- Gänsekragen
+	- East ridge (3+, solo)
 - Ruderhofspitz (ski from south)
 - Hinterer Brunnenkogel (ski)
 - Wörgegratspitz (ski)
