@@ -76,6 +76,10 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 	- East ridge from Karkopf (3, solo)
 - Grünstein 
 	- Eeast ridge traverse
+- Tajakopf
+	- Drachentanz (6)
+- Drachenkopf
+	- Walk to paradise (5)
 
 
 ## Karwendel
@@ -88,8 +92,8 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 	- South-west ridge (5+)
 - Gerberkreuz
 	- South-west ridge (4)
-- Hintere Brandjochspitz
-	- South ridge (3-, solo, round trip from Innsbruck in 5h 23min)
+- Vordere/Hintere Brandjochspitz
+	- South ridge (3-, solo, round trip from Innsbruck in 5.5h)
 - Hohe Warte
 	- South ridge (4)
 - Kleiner Solstein
@@ -154,7 +158,9 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 ## Ötztaler Alpen
 
 - Watzespitz
-	- East ridge (4) up and down from Plangeross in 11h
+	- East ridge (4) up and down from Plangeross in 11h total
+- Verpeilspitz
+	- North ridge (4+) from Verpeilalm in 9.5h total
 - Rofelewand (ski)
 - Hoher First (ski)
 - Granatenkogel (ski)
@@ -195,6 +201,7 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 - Mittlerer Chalauskopf (ski)
 - Patteriol
 	- North-east ridge (4)
+- Schneeglocke
 
 
 ## Stubaier Alpen
