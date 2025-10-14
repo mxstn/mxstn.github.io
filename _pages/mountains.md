@@ -221,7 +221,7 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 - Wilder Freiger
 	- traverse from Aperer Freiger, solo
 - Gänsekragen
-	- East ridge (3+, solo)
+	- East ridge (3+, solo) in 4h total
 - Ruderhofspitz (ski from south)
 - Hinterer Brunnenkogel (ski)
 - Wörgegratspitz (ski)
