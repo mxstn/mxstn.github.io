@@ -4,7 +4,7 @@ layout: page
 title: Alpinism
 ---
 
-I am a mountain enthusiast currently living in Innsbruck, Tyrol.
+I am a mountain enthusiast currently living in Innsbruck, Tyrol. I grew up in Garmisch-Partenkirchen, Bavaria.
 
 In winter I like to do ski-touring, in summer I enjoy ridge scrambling or light alpine climbs. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and navigation through pathless, alpine environment.
 
@@ -12,7 +12,7 @@ In winter I like to do ski-touring, in summer I enjoy ridge scrambling or light 
 
 Below, I tried to collect more or less what I have done so far in the mountains. I am grateful for all the friends that joined on most of these adventures, and the amazing times we shared together :)
 
-The list below does not include training laps to minor peaks and multi-pitch climbs down in the valley; further it is sorted by mountain ranges in the eastern alps. Since the Wetterstein range are my home mountains, they come first :)
+The list below is sorted by mountain ranges in the eastern alps. Since the Wetterstein range are my home mountains, they come first :)
 
 
 ## Wetterstein
@@ -119,7 +119,7 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 - Kemacher (ski)
 - Grubenkarspitz
 - Kaltwasserkarspitz (by bike from Garmisch-P.)
-- Ödkarspitz
+- Ödkarspitzen
 - Birkkarspitzen
 - Östl. Karwendelspitz
 - Rotwandlspitz - Westl. Karwendelspitz traverse
@@ -153,6 +153,8 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 
 - Großvenediger
 	- North ridge (4-) with fresh snow in autumn
+- Westl. Simonyspitz (ski)
+- Großer Geiger (ski)
 
 
 ## Ötztaler Alpen
@@ -188,7 +190,9 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 - Ortler
 	- Hintergrat (4) from Sulden with fresh snow in autumn
 - Cevedale, Nördl. Zufallspitz (ski)
-- Cima Marmotta, Madritschspitz, Butzenspitz (ski)
+- Cima Marmotta (ski)
+- Madritschspitz (ski) 
+- Butzenspitz (ski)
 
 
 ## Silvretta and Verwall
@@ -213,6 +217,7 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 	- by ski from north
 - Lisener Fernerkogel
 	- North ridge solo up and down
+	- by ski
 - Peider Spitz
 	- Norh ridge via Schlossköpfe (3, solo)
 	- East ridge
@@ -231,7 +236,8 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 - Nockspitz 
 	- North couloir (ski, solo)
 	- West couloir (ski, solo)
-- Marchreisenspitz, Ampferstein (ski)
+- Marchreisenspitz (ski)
+- Ampferstein (ski)
 - Hochtennspitz
 - Angerbergkopf (ski)
 - Rinnenspitz
@@ -247,9 +253,12 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 - Zwieselbacher Rosskogel (ski)
 - Haidenspitz (ski)
 - Rosskogel (ski)
-- Rietzer Grißekogel (ski)
+- Rietzer Grießkogel (ski)
 - Pirchkogel (ski)
 - Obernberger Tribulaun and Schwarze Wand in fresh autumn snow
+- Wetterkreuz (ski)
+- Hoher Lorenzen (ski)
+- Hohe Kreuzspitze (ski)
 
 
 ## Lechtaler Alpen
@@ -284,6 +293,9 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 - Bendelstein
 - Vennspitz
 - Hippoldspitz
+- Rosskopf (ski)
+- Pfaffenbichl (ski)
+- Poverer Hippold (ski)
 
 
 ## Ammergauer Alpen, Estergebirge
@@ -303,6 +315,26 @@ The list below does not include training laps to minor peaks and multi-pitch cli
 	- Westgrat (3)
 - Rothorn (Bregenzer Wald; ski)
 - Monte Cinto (Corse)
-- Kaimaktsalan
+- Kaimaktsalan (Greece)
+- Cima di Collalunga (Valle Stura; ski)
 
 and probably some more I forgot in the above list.
+
+## multi-pitch baseclimbs
+
+- Martinswand
+	- "Emmentaler" (4)
+	- "Aprilscherz" (5+)
+	- "Bronchitis" (5+)
+	- "Flotter Dreier" (5+)
+	- "Rucola" (5+)
+	- "Kaiser Max Spätlese" (6+)
+	- "Maxls Gamsrevier" (7-)
+	- "Maxls Krone" (7-)
+	- "Kraftlackl" (6-)
+	- "Flying Grass" (7-)
+	- "Mei" (7-)
+	- "Quatschkopp" (6)
+	
+- Stafflacher Wand
+	- "Kaffee und Kuchen" (5+)
