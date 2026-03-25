@@ -201,8 +201,9 @@ The list below is sorted by mountain ranges in the eastern alps. Since the Wette
 	- traverse (4)
 - Blankahorn 
 	- West ridge (3, solo)
+- Hoher Riffler
 - Dreiländerspitze (ski)
-- Mittlerer Chalauskopf (ski)
+- Mittlerer Chalauskopf north couloir (ski)
 - Patteriol
 	- North-east ridge (4)
 - Schneeglocke
