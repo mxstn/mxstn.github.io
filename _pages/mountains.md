@@ -6,7 +6,7 @@ title: Alpinism
 
 I am a mountain enthusiast currently living in Innsbruck, Tyrol. I grew up in Garmisch-Partenkirchen, Bavaria.
 
-In winter I like to do ski-touring, in summer I enjoy ridge scrambling or light alpine climbs. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and navigation through pathless, alpine environment.
+In winter I like to do ambitious ski-touring, in summer I enjoy ridge scrambling or light alpine climbs. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and navigation through pathless, alpine environment. I love the simplicity and the feeling of remoteness, roughness and adventure in the mountains.
 
 <img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
 
@@ -188,7 +188,7 @@ The list below is sorted by mountain ranges in the eastern alps. Since the Wette
 ## Ortleralpen
 
 - Ortler
-	- Hintergrat (4) from Sulden with fresh snow in autumn
+	- Hintergrat (4) from Sulden in fresh autumn snow
 - Cevedale, Nördl. Zufallspitz (ski)
 - Cima Marmotta (ski)
 - Madritschspitz (ski) 
@@ -216,7 +216,7 @@ The list below is sorted by mountain ranges in the eastern alps. Since the Wette
 	- by bike from Innsbruck in 10h round trip
 	- by ski from north
 - Lisener Fernerkogel
-	- North ridge solo up and down
+	- North ridge (3-) solo up and down
 	- by ski
 - Peider Spitz
 	- Norh ridge via Schlossköpfe (3, solo)
@@ -226,7 +226,7 @@ The list below is sorted by mountain ranges in the eastern alps. Since the Wette
 - Wilder Freiger
 	- traverse from Aperer Freiger, solo
 - Gänsekragen
-	- East ridge (3+, solo) in 4h total
+	- East ridge (3+, solo) in 4h total up and down from Gries
 - Ruderhofspitz (ski from south)
 - Hinterer Brunnenkogel (ski)
 - Wörgegratspitz (ski)
@@ -250,15 +250,17 @@ The list below is sorted by mountain ranges in the eastern alps. Since the Wette
 - Windegg (ski)
 - Roter Kogel, Auf Sömen
 - Lampsenspitz (ski)
-- Zwieselbacher Rosskogel (ski)
+- Zwieselbacher Rosskogel north gully (ski)
 - Haidenspitz (ski)
 - Rosskogel (ski)
 - Rietzer Grießkogel (ski)
 - Pirchkogel (ski)
-- Obernberger Tribulaun and Schwarze Wand in fresh autumn snow
+- Obernberger Tribulaun, Schwarze Wand in fresh autumn snow
 - Wetterkreuz (ski)
 - Hoher Lorenzen (ski)
 - Hohe Kreuzspitze (ski)
+- Finstertaler Schartenkopf, Gamskögele south-east (ski), 
+- Kraspesspitze north-west couloir (ski)
 
 
 ## Lechtaler Alpen
@@ -316,7 +318,7 @@ The list below is sorted by mountain ranges in the eastern alps. Since the Wette
 - Rothorn (Bregenzer Wald; ski)
 - Monte Cinto (Corse)
 - Kaimaktsalan (Greece)
-- Cima di Collalunga (Valle Stura; ski)
+- Cima di Collalunga (Val Stura; ski)
 
 and probably some more I forgot in the above list.
 
