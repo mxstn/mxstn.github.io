@@ -14,7 +14,7 @@ My name is Max. I am a mathematician and mountain enthusiast.
 
 My current homebase is Innsbruck, Tyrol.
 
-I hold a MSc in mathematics from the Technical University of Munich (TUM). Currently, I am finishing a Dr. rer. nat. (PhD) in mathematics at TUM ([with C. Kuehn; multiscale and stochastic dynamics](https://multiscale.systems)). To get a glimpse of my mathematical research you can check out [my paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
+I hold a MSc in mathematics from the Technical University of Munich (TUM). Currently, I am finishing a Dr. rer. nat. (PhD) in mathematics at TUM, [my supervisor is C. Kuehn; multiscale and stochastic dynamics](https://multiscale.systems). To get a glimpse of my mathematical research check out [my paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
 
 You can reach me via [5-letter-blog-title][at]icloud.com
 
