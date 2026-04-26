@@ -4,16 +4,14 @@ layout: page
 title: Alpinism
 ---
 
-I am a mountain enthusiast currently living in Innsbruck, Tyrol. I grew up in Garmisch-Partenkirchen, Bavaria.
+I am a mountain enthusiast currently living in Innsbruck, Tyrol. I grew up in the bavarian alps, in Garmisch-Partenkirchen.
 
-In winter I like to do ambitious ski-touring, in summer I enjoy ridge scrambling or light alpine climbs. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and navigation through pathless, alpine environment. I love the simplicity and the feeling of remoteness, roughness and adventure in the mountains.
+In winter I like to do ski-touring, in summer I enjoy ridge scrambling or alpine climbs. I love the simplicity and the feeling of remoteness, roughness and adventure in the mountains. I am grateful for all the friends that joined on most of these adventures, and the amazing times we shared together :)
+My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and navigation through pathless, alpine environment.  Recently, I also started paragliding.
 
 <img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
 
-Below, I tried to collect more or less what I have done so far in the mountains. I am grateful for all the friends that joined on most of these adventures, and the amazing times we shared together :)
-
-The list below is sorted by mountain ranges in the eastern alps. Since the Wetterstein range are my home mountains, they come first :)
-
+Below, I tried to collect more or less what I have done so far in the mountains. 
 
 ## Wetterstein
 
@@ -164,7 +162,8 @@ The list below is sorted by mountain ranges in the eastern alps. Since the Wette
 - Verpeilspitz
 	- North ridge (4+) from Verpeilalm in 9.5h total
 - Rofelewand (ski)
-- Hoher First (ski)
+- Hochfirst (ski)
+- Liebenerspitz (ski)
 - Granatenkogel (ski)
 - Königskogel from west (ski)
 - Wildspitz 
