@@ -9,12 +9,16 @@ I am a mountain enthusiast currently living in Innsbruck, Tyrol. I grew up in th
 In winter I like to do ski-touring, in summer I enjoy ridge scrambling or alpine climbs. I love the simplicity and the feeling of remoteness, roughness and adventure in the mountains. I am grateful for all the friends that joined on most of these adventures, and the amazing times we shared together :)
 My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and navigation through pathless, alpine environment. Recently, I started paragliding.
 
-<div style="display: flex; gap: 3%;">
-  <img src="../assets/img/alpinism/skitourin.jpg" style="max-width: 25%; height: auto;" oncontextmenu="return false;"/>
-  <img src="../assets/img/alpinism/hikin.jpg" style="max-width: 25%; height: auto;" oncontextmenu="return false;"/>
-  <img src="../assets/img/alpinism/climbim.jpg" style="max-width: 25%; height: auto;" oncontextmenu="return false;"/>
-  <img src="../assets/img/alpinism/scramblin.jpg" style="max-width: 25%; height: auto;" oncontextmenu="return false;"/>
+<div style="display: flex; gap: 3.3%;">
+  <img src="../assets/img/alpinism/skitourin.jpg" style="max-width: 22.5%; height: auto;" oncontextmenu="return false;"/>
+  <img src="../assets/img/alpinism/hikin.jpg" style="max-width: 22.5%; height: auto;" oncontextmenu="return false;"/>
+  <img src="../assets/img/alpinism/climbim.jpg" style="max-width: 22.5%; height: auto;" oncontextmenu="return false;"/>
+  <img src="../assets/img/alpinism/scramblin.jpg" style="max-width: 22.5%; height: auto;" oncontextmenu="return false;"/>
 </div>
+
+&nbsp;
+
+&nbsp;
 
 <img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
 
