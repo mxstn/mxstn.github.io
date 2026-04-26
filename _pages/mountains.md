@@ -6,7 +6,7 @@ title: Alpinism
 
 I am a mountain enthusiast currently living in Innsbruck, Tyrol. I grew up in the bavarian alps, in Garmisch-Partenkirchen.
 
-<div style="display: flex; gap: 10%;">
+<div style="display: flex; gap: 5%;">
   <img src="../assets/img/alpinism/skitourin.jpg" style="flex: 1; height: auto;" oncontextmenu="return false;"/>
   <img src="../assets/img/alpinism/hikin.jpg" style="flex: 1; height: auto;" oncontextmenu="return false;"/>
   <img src="../assets/img/alpinism/climbim.jpg" style="flex: 1; height: auto;" oncontextmenu="return false;"/>
