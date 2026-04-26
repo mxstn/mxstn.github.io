@@ -11,6 +11,8 @@ title: Alpinism
   <img src="../assets/img/alpinism/scramblin.jpg" style="max-width: 22.5%; height: auto;" oncontextmenu="return false;"/>
 </div>
 
+&nbsp;
+
 I am a mountain enthusiast currently living in Innsbruck, Tyrol. I grew up in the bavarian alps, in Garmisch-Partenkirchen.
 
 In winter I like to do ski-touring, in summer I enjoy ridge scrambling or alpine climbs. I love the simplicity and the feeling of remoteness, roughness and adventure in the mountains. I am grateful for all the friends that joined on most of these adventures, and the amazing times we shared together :)
