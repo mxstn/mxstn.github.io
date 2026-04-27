@@ -7,3 +7,21 @@ body {
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #383838;
 }
+
+/* CV grid layout */
+.cv {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  row-gap: 8px;
+}
+
+/* Left column (years) */
+.year {
+  text-align: right;
+  padding-right: 10px;
+}
+
+/* Right column (content) */
+.content {
+
+}
