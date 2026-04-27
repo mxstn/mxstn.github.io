@@ -20,7 +20,7 @@ My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and n
 
 <img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
 
-Below, I tried to collect more or less the peaks and routes I have done so far. 
+Below, I tried to collect more or less the peaks and routes I have done so far.
 
 ## Wetterstein
 
