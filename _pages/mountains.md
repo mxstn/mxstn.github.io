@@ -147,7 +147,7 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 	- Gigalitzturm South-east (5-)
 - Hoher Weißzint
 	- East ridge (3) from Neves lake
-- Olperer north ridge (ski)
+- Olperer north ridge (3-, ski)
 - Großer Kaserer traverse (ski)
 - Reichenspitze (ski)
 - Fußstein 
@@ -167,7 +167,7 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 - Watzespitz
 	- East ridge (4) up and down from Plangeross in 11h total
 - Verpeilspitz
-	- North ridge (4+) from Verpeilalm carpark in 9.5h total
+	- North ridge (4+) roundtrip from Verpeilalm carpark in 9.5h total
 - Rofelewand (ski)
 - Hochfirst (ski)
 - Liebenerspitz (ski)
