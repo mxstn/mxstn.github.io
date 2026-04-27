@@ -20,7 +20,7 @@ My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and n
 
 <img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
 
-Below, I tried to collect more or less what I have done so far in the mountains. 
+Below, I tried to collect more or less the peaks and routes I have done so far. 
 
 ## Wetterstein
 
@@ -169,7 +169,7 @@ Below, I tried to collect more or less what I have done so far in the mountains.
 - Watzespitz
 	- East ridge (4) up and down from Plangeross in 11h total
 - Verpeilspitz
-	- North ridge (4+) from Verpeilalm in 9.5h total
+	- North ridge (4+) from Verpeilalm carpark in 9.5h total
 - Rofelewand (ski)
 - Hochfirst (ski)
 - Liebenerspitz (ski)
