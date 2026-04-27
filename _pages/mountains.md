@@ -13,12 +13,11 @@ title: Alpinism
 
 I am a mountain enthusiast currently living in Innsbruck, Tyrol. I grew up in the bavarian alps, in Garmisch-Partenkirchen.
 
-In winter I like to do ski-touring, in summer I enjoy ridge scrambling or alpine climbs. I love the simplicity and the feeling of remoteness, roughness and adventure in the mountains. I am grateful for all the friends that joined on most of these adventures, and the amazing times we shared together :)
-My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and navigation through pathless, alpine environment. Recently, I started paragliding.
+I love the feeling of remoteness, roughness and adventure in the mountains. I enjoy planning alpine adventures and exploring undocumented routes. In winter I like to do ski-touring, in summer I enjoy ridge scrambling or alpine climbs. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and navigation through pathless, alpine environment. Recently, I started paragliding.
 
 <img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
 
-Below, I tried to collect more or less the peaks and routes I have done so far.
+Below, I tried to collect more or less the peaks and routes I was able to do so far. I am grateful for all the friends that joined on most of these adventures, and the amazing times we shared together :) 
 
 ## Wetterstein
 
