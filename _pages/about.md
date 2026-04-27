@@ -14,16 +14,20 @@ I am a mathematician, mountain enthusiast and research engineer.
 
 Besides that, I enjoy playing guitar, attending concerts, and most recently dancing Lindy Hop :)
 
-In 2026 I will be defending my Dr. rer. nat. (~PhD) in mathematics at TUM, my main supervisor is [Christian Kuehn (multiscale and stochastic dynamics)](https://multiscale.systems) and my co-supervisor is [Hildeberto Jardón-Kojakhmetov (dynamical systems)](https://hildejk.xyz). My mathematical research is concerned with singularities in differential equations with two time-scales and geometric methods in the analysis of their dynamics. To get a glimpse of my mathematical research check out [my paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
+In 2026 I will be defending my Dr. rer. nat. (~PhD) in mathematics at TUM; my main supervisor is [Christian Kuehn (multiscale and stochastic dynamics)](https://multiscale.systems) and my co-supervisor is [Hildeberto Jardón-Kojakhmetov (dynamical systems)](https://hildejk.xyz). My mathematical research is concerned with singularities in differential equations with two time-scales and geometric methods in the analysis of their dynamics. To get a glimpse of my mathematical research check out [my paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
+
+&nbsp;
 
 # Short CV
 
 <div class="cv">
   <div class="year">since 2023</div>
-  <div class="content">Research Engineer at MED-EL R&D department, Innsbruck</div>
+  <div class="content">Research Engineer at <a href="https://www.medel.com" target="_blank">
+	      MED-EL
+	    </a>, R&D department, Innsbruck</div>
   
   <div class="year">2022</div>
-  <div class="content">Research stay at University of Groningen (RUG)<br>
+  <div class="content">2-month research stay at University of Groningen (RUG)<br>
   	with <a href="https://hildejk.xyz" target="_blank">
 	      Hildeberto Jardón-Kojakhmetov (dynamical systems)
 	    </a></div>
@@ -50,11 +54,13 @@ In 2026 I will be defending my Dr. rer. nat. (~PhD) in mathematics at TUM, my ma
 	  Thesis: "De-Rham cohomology of Lie groups and Lie algebras" supervised by Urs Frauenfelder</div>
 	  
   <div class="year">2015</div>
-  <div class="content">Erasmus exchange to Lund University, Sweden</div>
+  <div class="content">Erasmus exchange semester to Lund University, Sweden</div>
   
   <div class="year">2012</div>
   <div class="content">Abitur at Werdenfels-Gymnasium, Garmisch-Partenkirchen</div>
 </div>
+
+&nbsp;
 
 # Contact
 
