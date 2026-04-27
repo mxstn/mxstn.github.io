@@ -4,14 +4,12 @@ layout: page
 title: Alpinism
 ---
 
-<div style="display: flex; gap: 3.3%;">
+<div style="display: flex; gap: 3.3%; margin-bottom: 3.3%;">
   <img src="../assets/img/alpinism/skitourin.jpg" style="max-width: 22.5%; height: auto;" oncontextmenu="return false;"/>
   <img src="../assets/img/alpinism/hikin.jpg" style="max-width: 22.5%; height: auto;" oncontextmenu="return false;"/>
   <img src="../assets/img/alpinism/climbim.jpg" style="max-width: 22.5%; height: auto;" oncontextmenu="return false;"/>
   <img src="../assets/img/alpinism/scramblin.jpg" style="max-width: 22.5%; height: auto;" oncontextmenu="return false;"/>
 </div>
-
-&nbsp;
 
 I am a mountain enthusiast currently living in Innsbruck, Tyrol. I grew up in the bavarian alps, in Garmisch-Partenkirchen.
 
@@ -29,7 +27,7 @@ Below, I tried to collect more or less the peaks and routes I have done so far.
 	- Adamplatte (4-, solo)
 	- Nordwandxicht (6)
 	- Nebelpartie (6-)
-	- Zugspitz -> Alpspitz sub 3h
+	- Jubiläumsgrat (Zugspitz -> Alpspitz) sub 3h
 	- new years eve bivy on top
 - Hochblassen
 	- Blassengrat (3) followed by Jubiläumsgrat (3-)
@@ -51,6 +49,7 @@ Below, I tried to collect more or less the peaks and routes I have done so far.
 - Hinterreintalschrofen
 - Hochwanner
 - Kleiner Waxenstein
+	- traverse
 - Großer Waxenstein
 	- Nonnebruch/Schlagintweit (3, solo)
 	- traverse from Zwölferkopf (3, solo)
@@ -64,7 +63,7 @@ Below, I tried to collect more or less the peaks and routes I have done so far.
 - Höllentorkopf
 	- Nord-Kante (4)
 - Arnspitzen
-	- traverse
+	- traverse (3-)
 - Zugspitz
 	- Jubiläumsgrat (3-) four times, twice solo
 		- Zugspitz -> Alpspitz in sub 3h
