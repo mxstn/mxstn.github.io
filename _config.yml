@@ -1,5 +1,5 @@
 title: mxstn
-description: blog of a mathematician, research engineer and mountain enthusiast
+description: mathematician, research engineer and mountain enthusiast
 author: mxstn
 
 theme: minima
@@ -15,6 +15,7 @@ header_pages:
   - _pages/frontpage.md
   - _pages/about.md
   - _pages/mountains.md
+  - _pages/photography.md
   - _pages/archive.md
 
 include:

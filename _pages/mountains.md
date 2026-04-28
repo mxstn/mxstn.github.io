@@ -21,6 +21,10 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 
 ## Wetterstein
 
+- Partenkirchner Dreitorspitz
+	- traverse (3-, solo by bike from Garmisch-P. in sub 8h round trip)
+- Hochblassen
+	- Blassengrat (3) followed by Jubiläumsgrat (3-)
 - Alpspitz
 	- Sonntagsausflug (5)
 	- Adamplatte (4-, solo)
@@ -28,12 +32,8 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 	- Nebelpartie (6-)
 	- Jubiläumsgrat (Zugspitz -> Alpspitz) sub 3h
 	- new years eve bivy on top
-- Hochblassen
-	- Blassengrat (3) followed by Jubiläumsgrat (3-)
-- Partenkirchner Dreitorspitz
-	- traverse (3-, solo by bike from Garmisch-P. in sub 8h round trip)
-- Leutascher Dreitorspitz (ski)
-- Kämikopf, Kämitor, Schachentor (ski)
+- Zugspitz
+	- Jubiläumsgrat (3-) four times, twice solo
 - Wettersteinwand
 - Musterstein
 	- traverse from Obere Wettersteinspitze "Wettersteingrat" (3)
@@ -44,9 +44,6 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 - Oberreintalschrofen
 	- traverse from East ridge to West (3)
 	- Oberreintalkar (ski)
-- Teufelskopf
-- Hinterreintalschrofen
-- Hochwanner
 - Kleiner Waxenstein
 	- traverse
 - Großer Waxenstein
@@ -61,19 +58,17 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 	- Maus, Tiger, Käfer (4+)
 - Höllentorkopf
 	- Nord-Kante (4)
+- Leutascher Dreitorspitz (ski)
+- Kämikopf, Kämitor, Schachentor (ski)
+- Teufelskopf
+- Hinterreintalschrofen
+- Hochwanner
 - Arnspitzen
 	- traverse (3-)
-- Zugspitz
-	- Jubiläumsgrat (3-) four times, twice solo
-		- Zugspitz -> Alpspitz in sub 3h
-		- Blassengrat (3) followed by Jubiläumsgrat
-		- Adamplatte (4-, solo) followed by Jubiläumsgrat
 		
 		
 ## Mieminger Kette
 
-- Ehrwalder Sonnenspitz
-- Igelskopf Hüttenrinne (ski)
 - Wampeter Schrofen
 	- North ridge (solo)
 - Wannig (ski)
@@ -85,6 +80,8 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 	- Drachentanz (6)
 - Drachenkopf
 	- Walk to paradise (5)
+- Ehrwalder Sonnenspitz
+- Igelskopf Hüttenrinne (ski)
 
 
 ## Karwendel
@@ -165,7 +162,7 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 ## Ötztaler Alpen
 
 - Watzespitz
-	- East ridge (4) up and down from Plangeross in 11h total
+	- East ridge (4) roundtrip from Plangeross in 11h total
 - Verpeilspitz
 	- North ridge (4+) roundtrip from Verpeilalm carpark in 9.5h total
 - Rofelewand (ski)
