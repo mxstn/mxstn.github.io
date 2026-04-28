@@ -24,10 +24,9 @@ body {
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  gap: 40px;
+  gap: 30px;
 }
 
 .gallery img {
-  margin: 20px;
   display: block;
 }
