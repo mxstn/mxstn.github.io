@@ -25,3 +25,9 @@ body {
 .content {
 
 }
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
