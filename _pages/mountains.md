@@ -17,7 +17,7 @@ I love the feeling of remoteness, roughness and adventure in the mountains. I en
 
 <img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
 
-Below, you find a sample of routes and peaks I was able to do so far. I am grateful for all the amazing times I could share with friends in the mountains :) 
+Below, you find a large sample of routes and peaks I was able to do so far. I am grateful for all the amazing times I could share with friends in the mountains :) 
 
 ## Wetterstein
 
@@ -164,7 +164,7 @@ Below, you find a sample of routes and peaks I was able to do so far. I am grate
 - Watzespitz
 	- East ridge (4) roundtrip from Plangeross in 11h total
 - Verpeilspitz
-	- North ridge (4+) roundtrip from Verpeilalm carpark in 9.5h total
+	- North ridge (4) roundtrip from Verpeilalm carpark in 9.5h total
 - Rofelewand (ski)
 - Hochfirst (ski)
 - Liebenerspitz (ski)
@@ -323,7 +323,6 @@ Below, you find a sample of routes and peaks I was able to do so far. I am grate
 - Kaimaktsalan (Greece)
 - Cima di Collalunga (Val Stura; ski)
 
-and probably some more I forgot in the above list.
 
 ## multi-pitch baseclimbs
 
