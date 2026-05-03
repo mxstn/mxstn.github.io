@@ -17,35 +17,19 @@ I love the feeling of remoteness, roughness and adventure in the mountains. I en
 
 <img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
 
-Below, I tried to collect more or less the peaks and routes I was able to do so far. I am grateful for all the friends that joined on most of these adventures, and the amazing times we shared together :) 
+Below, you find a sample of routes and peaks I was able to do so far. I am grateful for all the amazing times I could share with friends in the mountains :) 
 
 ## Wetterstein
 
 - Partenkirchner Dreitorspitz
 	- traverse (3-, solo by bike from Garmisch-P. in sub 8h round trip)
-- Hochblassen
+- Hochblassen, Zugspitz
 	- Blassengrat (3) followed by Jubiläumsgrat (3-)
-- Alpspitz
-	- Sonntagsausflug (5)
-	- Adamplatte (4-, solo)
-	- Nordwandxicht (6)
-	- Nebelpartie (6-)
 	- Jubiläumsgrat (Zugspitz -> Alpspitz) sub 3h
-	- new years eve bivy on top
-- Zugspitz
-	- Jubiläumsgrat (3-) four times, twice solo
-- Wettersteinwand
-- Musterstein
+- Wettersteinwand, Musterstein
 	- traverse from Obere Wettersteinspitze "Wettersteingrat" (3)
 - Öfelekopf
 	- traverse from North-East face to West ridge (3)
-- Schüsselkar Westgratturm
-	- Siemens/Wolf with Phantasia entry (5-/5+)
-- Oberreintalschrofen
-	- traverse from East ridge to West (3)
-	- Oberreintalkar (ski)
-- Kleiner Waxenstein
-	- traverse
 - Großer Waxenstein
 	- Nonnebruch/Schlagintweit (3, solo)
 	- traverse from Zwölferkopf (3, solo)
@@ -53,11 +37,25 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 	- traverse "Waxensteingrat" (3) from Gr. Waxenstein via Schönangerspitz, Riffelspitzen to Riffeltorkopf
 - Große Riffelwandspitz
 	- traverse via east-ridge from Kleine Riffelwandspitz to Zugspitz (4-)
+- Schüsselkar Westgratturm
+	- Siemens/Wolf with Phantasia entry (5-/5+)
+- Oberreintalschrofen
+	- traverse from East ridge to West (3)
+	- Oberreintalkar (ski)
 - Riffeltorkopf
 	- Ettl-Platte (5+)
 	- Maus, Tiger, Käfer (4+)
 - Höllentorkopf
 	- Nord-Kante (4)
+- Alpspitz
+	- Sonntagsausflug (5)
+	- Adamplatte (4-, solo)
+	- Nordwandxicht (6)
+	- Nebelpartie (6-)
+	- new years eve bivy on top
+- Zugspitz
+	- Jubiläumsgrat (3-) four times, twice solo
+	
 - Leutascher Dreitorspitz (ski)
 - Kämikopf, Kämitor, Schachentor (ski)
 - Teufelskopf
@@ -65,13 +63,12 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 - Hochwanner
 - Arnspitzen
 	- traverse (3-)
-		
+	
 		
 ## Mieminger Kette
 
 - Wampeter Schrofen
 	- North ridge (solo)
-- Wannig (ski)
 - Hohe Wand
 	- East ridge from Karkopf (3, solo)
 - Grünstein 
@@ -81,26 +78,18 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 - Drachenkopf
 	- Walk to paradise (5)
 - Ehrwalder Sonnenspitz
+- Wannig (ski)
 - Igelskopf Hüttenrinne (ski)
 
 
 ## Karwendel
 
-- Kreuzwand
-	- East ridge (3)
-	- MaMa Kante (5)
-	- Joe Muff (4+)
-- Koflerturm
-	- South-west ridge (5+)
-- Gerberkreuz
-	- South-west ridge (4)
 - Vordere/Hintere Brandjochspitz
 	- South ridge (3-, solo, round trip from Innsbruck in 5.5h)
 - Hohe Warte
 	- South ridge (4)
 - Kleiner Solstein
 	- East ridge (3, solo)
-- Pfeiserspitz (traverse)
 - Lamsenspitz
 	- Nord-Ost Kante (4+)
 - Hintere Bachofenspitze
@@ -112,7 +101,16 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 	- Normalweg from Innsbruck by bike in 7h round trip
 -  Fallbachkarspitz 
 	- South ridge (3, solo)
+- Kreuzwand
+	- East ridge (3)
+	- MaMa Kante (5)
+	- Joe Muff (4+)
+- Koflerturm
+	- South-west ridge (5+)
+- Gerberkreuz
+	- South-west ridge (4)
 	
+- Kaltwasserkarspitz (by bike from Garmisch-P.)
 - Große Seekarspitz (ski)
 - Pleisenspitz (ski)
 - Freiungspitzen (ski)
@@ -120,12 +118,13 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 - Seefelder Spitz (ski)
 - Kemacher (ski)
 - Grubenkarspitz
-- Kaltwasserkarspitz (by bike from Garmisch-P.)
 - Ödkarspitzen
 - Birkkarspitzen
 - Östl. Karwendelspitz
+- Pfeiserspitz traverse
 - Rotwandlspitz - Westl. Karwendelspitz traverse
 - Erlspitz
+- Kuhljochspitz
 - Wörner
 - Soiernspitz (traverse from Seinskopf)
 - Kaskarspitz
@@ -143,8 +142,9 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 - Gigalitz
 	- Gigalitzturm South-east (5-)
 - Hoher Weißzint
-	- East ridge (3) from Neves lake
-- Olperer north ridge (3-, ski)
+	- East ridge (3) from lake Neves
+- Olperer 
+	- North ridge (3-, ski)
 - Großer Kaserer traverse (ski)
 - Reichenspitze (ski)
 - Fußstein 
@@ -169,7 +169,7 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 - Hochfirst (ski)
 - Liebenerspitz (ski)
 - Granatenkogel (ski)
-- Königskogel from west (ski)
+- Königskogel west couloir (ski)
 - Wildspitz 
 	- bike&ski from Mandarfen
 	- Jubiläumsgrat (north-east ridge) traverse
@@ -269,8 +269,7 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 
 ## Lechtaler Alpen
 
-- Thaneller
-	- North Couloir (ski)
+- Thaneller north couloir (ski)
 - Namloser Wetterspitz (ski)
 - Suwaldspitzen (ski)
 - Engelspitzen (ski)
@@ -286,7 +285,7 @@ Below, I tried to collect more or less the peaks and routes I was able to do so 
 - Naviser Sonnenspitz
 - Naviser Kreuzjöchl (ski)
 - Pfoner Kreuzjöchl (ski)
-- Grünbergspitz (ski by bike from Innsbruck)
+- Grünbergspitz (bike&ski from Innsbruck)
 - Rosenjoch, Kreuzspitz (ski)
 - Glungezer (ski)
 - Morgenkogel (ski, north-east)
