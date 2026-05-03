@@ -14,6 +14,10 @@ I am a mathematician, mountain enthusiast and research engineer.
 
 Besides that, I enjoy playing guitar, attending concerts, and most recently dancing Lindy Hop :)
 
+&nbsp;
+
+# Mathematics
+
 In 2026 I will defend my Dr. rer. nat. (~PhD) in mathematics at TUM; my main supervisor is [Christian Kuehn (multiscale and stochastic dynamics)](https://multiscale.systems) and my co-supervisor is [Hildeberto Jardón-Kojakhmetov (dynamical systems)](https://hildejk.xyz). My mathematical research is concerned with singularities in differential equations with two time-scales, and geometric methods in the analysis of their dynamics. To get a glimpse of my mathematical research check out [my paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
 
 &nbsp;
