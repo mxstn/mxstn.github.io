@@ -221,12 +221,14 @@ Below, you find a large sample of peaks and routes I was able to do so far. I am
 	- by ski from north
 - Lisener Fernerkogel
 	- North ridge (3-) solo up and down
-	- by ski
+	- by ski via east gully
 - Peider Spitz
 	- Norh ridge via Schlossköpfe (3, solo)
 	- East ridge
 - Acherkogel
 	- North-east ridge (4) up and down
+- Riepenwand
+	- North ridge (3-)
 - Wilder Freiger
 	- traverse from Aperer Freiger, solo
 - Gänsekragen
