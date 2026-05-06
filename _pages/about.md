@@ -10,15 +10,15 @@ I am a mathematician, mountain enthusiast and research engineer.
 
 - as a mountain enthusiast, I like alpinism and enjoy being outside with friends, mostly [mountaineering, climbing and ski-touring](https://mxstn.github.io/mountains),
 
-- finally, in my current job as research engineer at MED-EL, I am interested in company workflows, python projects and surrounding tools, statistics and developments in machine learning.
+- finally, in my current job as research engineer at MED-EL, I am interested in prototyping and simulations with python and surrounding tools, statistics and developments in machine learning.
 
-Besides that, I enjoy playing guitar, attending concerts, and most recently dancing Lindy Hop :)
+Besides that, I am a music lover, I enjoy playing guitar, attending concerts, and most recently dancing Lindy Hop :)
 
 &nbsp;
 
 # Mathematics
 
-In 2026 I will defend my Dr. rer. nat. (~PhD) in mathematics at Technical University of Munich (TUM); my main supervisor is [Christian Kuehn (multiscale and stochastic dynamics)](https://multiscale.systems) and my co-supervisor is [Hildeberto Jardón-Kojakhmetov (dynamical systems)](https://hildejk.xyz). My mathematical research is concerned with singularities in differential equations with two time-scales, and geometric methods in the analysis of their dynamics. To get a glimpse of my mathematical research check out [my paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
+My mathematical research is mainly concerned with singularities in differential equations with two time-scales. More specifically, I employ geometric methods to analyze dynamics near such singularities. I wrote my BSc thesis about the De-Rham cohomology of Lie groups and Lie Algebras. In my MSc thesis I started to build a singularity theory for distributions (generalized functions). In 2026 I will defend my Dr. rer. nat. (~PhD) in mathematics at Technical University of Munich (TUM); my main supervisor is [Christian Kuehn (multiscale and stochastic dynamics)](https://multiscale.systems) and my co-supervisor is [Hildeberto Jardón-Kojakhmetov (dynamical systems)](https://hildejk.xyz). To get a glimpse of my mathematical research check out [my paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
 
 &nbsp;
 
