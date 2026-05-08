@@ -232,7 +232,8 @@ Below, you find a large sample of peaks and routes I was able to do so far. I am
 - Wilder Freiger
 	- traverse from Aperer Freiger, solo
 - Gänsekragen
-	- East ridge (3+, solo) in 4h total up and down from Gries
+	- East ridge (3+, solo) roundtrip from Gries in 4h
+- Vordere Sommerwand north ridge (3, solo)
 - Ruderhofspitz (ski from south)
 - Hinterer Brunnenkogel (ski)
 - Wörgegratspitz (ski)
