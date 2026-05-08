@@ -234,6 +234,7 @@ Below, you find a large sample of peaks and routes I was able to do so far. I am
 - Gänsekragen
 	- East ridge (3+, solo) roundtrip from Gries in 4h
 - Vordere Sommerwand north ridge (3, solo)
+- Zuckerhütl (ski)
 - Ruderhofspitz (ski from south)
 - Hinterer Brunnenkogel (ski)
 - Wörgegratspitz (ski)
@@ -270,15 +271,6 @@ Below, you find a large sample of peaks and routes I was able to do so far. I am
 - Kraspesspitze north-west couloir (ski)
 
 
-## Lechtaler Alpen
-
-- Thaneller north couloir (ski)
-- Namloser Wetterspitz (ski)
-- Suwaldspitzen (ski)
-- Engelspitzen (ski)
-- Tschachaun (ski)
-
-
 ## Tuxer Alpen
 
 - Hirzer (ski)
@@ -293,7 +285,7 @@ Below, you find a large sample of peaks and routes I was able to do so far. I am
 - Glungezer (ski)
 - Morgenkogel (ski, north-east)
 - Viggarspitz, Neunerspitz
-- Gilfert
+- Gilfert (ski)
 - Haneburger (traverse from Volders by bike)
 - Tarntaler Köpfe by bike from Matrei
 - Lizumer Reckner and Lizumer Sonnenspitz
@@ -304,4 +296,13 @@ Below, you find a large sample of peaks and routes I was able to do so far. I am
 - Rosskopf (ski)
 - Pfaffenbichl (ski)
 - Poverer Hippold (ski)
+
+
+## Lechtaler Alpen
+
+- Thaneller north couloir (ski)
+- Namloser Wetterspitz (ski)
+- Suwaldspitzen (ski)
+- Engelspitzen (ski)
+- Tschachaun (ski)
 
