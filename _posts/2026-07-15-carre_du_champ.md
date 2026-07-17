@@ -3,7 +3,9 @@ title: "Carré du champ operator and Riemannian metric"
 date: 2026-07-15
 ---
 
-Very recently, at ICML 2026, I came across the carré du champ operator in [this ML paper](https://openreview.net/forum?id=KVzXnWPLgX) and I got hooked immediately. Let me try to explain :)
+Very recently, at ICML 2026, I came across the carré du champ operator in [this ML paper](https://openreview.net/forum?id=KVzXnWPLgX) and I got hooked immediately. 
+Let me try to explain :)
+
 
 # World of smooth manifolds
 
@@ -20,6 +22,7 @@ $$
 $$
 
 where $g$ is the Riemannian metric. This means that the metric $g$ can be given in terms of Laplace-Beltrami $\Delta$.
+
 
 # World of rough stochastic processes
 
@@ -64,4 +67,3 @@ This is done in the impressive paper [diffusion geometry](https://arxiv.org/abs/
 * define the action of 1-forms through the metric
 
 ... and so forth. By this, it seems possible to introduce Riemannian geometry on probability spaces! In particular, samples from euclidean probability spaces, e.g. point clouds, can be used to compute Riemannian geometric notions. This opens up a world of Riemannian geometry for point clouds based on Markov diffusion operators.
-
