@@ -18,7 +18,7 @@ Besides that, I am a music lover; I enjoy playing guitar, attending concerts, an
 
 # Mathematics
 
-My mathematical research is mainly concerned with singularities in differential equations with two time-scales. More specifically, I employ geometric methods to analyze dynamics near such singularities. I wrote my BSc thesis about the De Rham cohomology of Lie groups and Lie algebras. In my MSc thesis, I started to build a singularity theory for distributions (generalized functions). In 2026, I will defend my Dr. rer. nat. (~PhD) in mathematics at Technical University of Munich (TUM); my main supervisor is [Christian Kuehn (multiscale and stochastic dynamics)](https://multiscale.systems) and my co-supervisor is [Hildeberto Jardón-Kojakhmetov (dynamical systems)](https://hildejk.xyz). To get a glimpse of my mathematical research check out [my paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
+My mathematical research for my dissertation is mainly concerned with singularities in differential equations with two time-scales. More specifically, I employ geometric methods to analyze dynamics near such singularities. However, I have a broad interest in the interplay between geometry, dynamics and probability. I wrote my BSc thesis about the De Rham cohomology of Lie groups and Lie algebras. In my MSc thesis, I started to build a singularity theory for distributions (generalized functions). In 2026, I submitted my dissertation at Technical University of Munich (TUM); my main supervisor is [Christian Kuehn](https://multiscale.systems) and my co-supervisor is [Hildeberto Jardón-Kojakhmetov](https://hildejk.xyz). To get a glimpse of my mathematical research check out [my paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
 
 &nbsp;
 
@@ -50,12 +50,6 @@ My mathematical research is mainly concerned with singularities in differential 
   <div class="year">2017</div>
   <div class="content">BSc Mathematics, University of Augsburg<br>
 	  Thesis: "De-Rham cohomology of Lie groups and Lie algebras" supervised by Urs Frauenfelder</div>
-	  
-  <div class="year">2015</div>
-  <div class="content">Erasmus exchange semester to Lund University, Sweden</div>
-  
-  <div class="year">2012</div>
-  <div class="content">Abitur at Werdenfels-Gymnasium, Garmisch-Partenkirchen</div>
 </div>
 
 &nbsp;
