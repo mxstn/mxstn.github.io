@@ -26,7 +26,7 @@ where $g$ is the Riemannian metric. This means that the metric $g$ can be given 
 
 # World of rough stochastic processes
 
-Now say we are in the rough world of stochastic processes. Say we have a Markov process $X_t$. The law of $X_t$ is determined by testing with measurable functions f against the measure determined by $X_t$. Now we can mimic a derivative, similar to a derivative of a flow which gives a vector field. Since we are in the probabilistic, rough setting, we can consider a kind of conditional expectation derivative like
+Now say we are in the rough world of stochastic processes. Say we have a Markov process $X_t$. The law of $X_t$ is determined by testing with measurable functions $f$ against the measure determined by $X_t$. Now we can mimic a derivative, similar to a derivative of a flow which gives a vector field. Since we are in the probabilistic, rough setting, we can consider a kind of conditional expectation derivative like
 
 $$
 \lim_{\tau \downarrow 0} \frac{1}{\tau} \E [f(X_{t+\tau}) - f(X_t) | X_t = x]
@@ -35,7 +35,7 @@ $$
 Then if we have time-homogeneity, meaning that it does not matter at which time exactly we start the process, only the evolved time matters, we obtain the operator
 
 $$
-A\colon f \mapsto \lim_{\tau \downarrow 0} \frac{1}{\tau} \E [f(X_{\tau}) - f(x)]
+A\colon f \mapsto \left( x \mapsto \lim_{\tau \downarrow 0} \frac{1}{\tau} \E [f(X_{\tau}) - f(x)] \right)
 $$
 
 $A$ is called the infinitesimal generator. Note the analogy of flows and vector fields, where vector fields are sometimes also called infinitesimal generators. Now, the so called carré du champ operator can be defined by (there exist different sign and scaling conventions)
@@ -66,4 +66,4 @@ This is done in the impressive paper [diffusion geometry](https://arxiv.org/abs/
 * define vector fields as derivations, which correspond to 1-forms through the metric
 * define the action of 1-forms through the metric
 
-... and so forth. By this, it seems possible to introduce Riemannian geometry on probability spaces! In particular, samples from euclidean probability spaces, e.g. point clouds, can be used to compute Riemannian geometric notions. This opens up a world of Riemannian geometry for point clouds based on Markov diffusion operators.
+... and so forth. By this, it seems possible to introduce Riemannian geometry on probability spaces! In particular, samples from euclidean probability spaces, e.g. point clouds, can be used to compute the Carré du champ operator from the heat diffusion operator on the ambient space, by results from [this paper](https://www.sciencedirect.com/science/article/pii/S1063520306000546). This opens up a world of Riemannian geometry for point clouds based on Markov diffusion operators.
