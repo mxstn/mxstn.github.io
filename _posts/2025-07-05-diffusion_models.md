@@ -3,11 +3,13 @@ title: "Diffusion models and stochastic interpolants"
 date: 2025-07-05
 ---
 
-Diffusion models seem to be the status quo for photo and video generation. I find diffusion models interesting, since they combine dynamics, probability and sampling. The idea is a simple sampling idea: we would like to draw new samples according to the underlying law of some training data. However, sampling directly from this unknown law is undoable. Instead, the idea is to generate samples from a known distribution, like a normal distribution (or even a Dirac), and suitably transform these samples to get the desired samples. 
+Diffusion models seem to be the status quo for photo and video generation. I find diffusion models interesting, since they combine dynamics, probability and sampling. Recently, I found a paper giving a nice unified view on diffusion models.
+
+Recall the general idea of diffusion models, which is a simple sampling idea: we would like to draw new samples according to the underlying law of some training data. However, sampling directly from this unknown law is undoable. Instead, the idea is to generate samples from a known distribution, like a normal distribution (or even a Dirac), and suitably transform these samples to get the desired samples. 
 
 The viewpoint adopted in [the paper of Song et al](https://arxiv.org/abs/2011.13456) is that putting data into an Ornstein-Uhlenbeck process converges to a normal distribution. This evolution can be reversed by another SDE, which needs the time-series of the densities of the OU process. A deep neural net is learned to represent this gradient of the logarithm of the time-series of the densities (aka "score function") in order to do this reversion computationally: transform samples of a normal distribution to samples of the training data distribution.
 
-Essentially, it turns out that this viewpoint is in some sense a special case of a more general viewpoint. Namely, designing a suitable deterministic flow or stochastic flow that connects two probability distributions - deterministic in the sense of transport equation (Liouville equation) or stochastic in the sense of a suitable SDE. Such viewpoint is given in [the paper of Albergo et al](https://www.jmlr.org/papers/v26/23-1605.html), which I will follow below.
+Essentially, it turns out that this viewpoint is in some sense a special case of a more general viewpoint. Namely, designing a suitable deterministic flow or stochastic flow that connects two probability distributions - deterministic in the sense of transport equation (Liouville equation) or stochastic in the sense of a suitable SDE. Such viewpoint is given in [the paper of Albergo et al](https://arxiv.org/abs/2303.08797), which I will follow below.
 
 # stochastic interpolants
 
@@ -33,13 +35,13 @@ $$
 
 which shows that the distributional derivative of $\mu_t$ is 
 
-$$ \E[\frac{\d}{\d t}\leval_t I_t | I_t = x] $$
+$$ \E[\frac{\d}{\d t}\leval_t I_t | I_t = x].$$
 
-Hence, by letting
+Hence, by defining a non-autonomous vector field
 
 $$ b_t(x) = \E[\frac{\d}{\d t}\eval_t I_t | I_t = x],$$
 
-the law of $I_t$ and the law of the solution to $ X_t = b_t(X_t) \d t $ coincide, with initial condition $X_0 \sim \mu_0$.
+the law of $I_t$ and the law of the solution to $ X_t = b_t(X_t) \d t, X_0 \sim \mu_0 $ coincide.
 
 Further, it turns out that $b_t(x) = \text{argmin}_{\hat{b}_t} \E[ \abs{\hat{b}_t(I_t)}^2 - 2 \frac{\d}{\d t}\eval_t I_t \cdot \hat{b}_t(I_t) ]$, so $b_t(x)$ can be regressed by a deep neural network. 
 
@@ -57,11 +59,9 @@ this leads to a deterministic diffusion model.
 # stochastic viewpoint
 
 \eqref{liouville} is the particle version (Liouville equation) equivalent to the associated distributional transport equation $\partial_t \mu_t + \div_x(b_t \mu_t) = 0$.
-In fact $I_t$ also solves certain SDEs. For, starting from the above transport equation, we can derive certain Fokker-Planck equations, which then give the corresponding SDEs.
+In fact $I_t$ also solves certain SDEs. For, starting from the transport equation, we can derive certain Fokker-Planck equations, which then give the corresponding SDEs.
 
-The ingredients to show this are:
-
-For any test function $\phi$
+The ingredients to show this are: for any test function $\phi$
 
 $$
 \E[\nabla \phi(I_t)] = \E[ \phi(I_t) \nabla(\log( \frac{\d \mu_t}{\d x} )) ]
@@ -73,7 +73,7 @@ $$
 \nabla(\log(\frac{\d \mu_t}{\d x} )) = - \frac{\E[ Z | I_t = x ]}{\gamma_t} = s_t(x).
 $$
 
-Further $\div_x(s_t \mu_t) = \Delta \mu_t$.
+Finally, $\div_x(s_t \mu_t) = \Delta \mu_t$.
 
 By this it follows that $\mu_t$ solves for any continuous $\epsilon_t \ge 0$ the following two Fokker-Planck equations:
 
@@ -102,7 +102,7 @@ with initial condition $I_1 \sim \mu_1$.
 
 # special case: $X_0 \sim \delta_0$
 
-todo.
+tbc. todo.
 
 optimize $\epsilon_t$ for minimal estimation error
 
