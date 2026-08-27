@@ -21,7 +21,7 @@ $$
 
 for $t \in [0,1]$ with $\alpha, \beta, \gamma$ being $C^1(0,1)$ such that $I_0 = X_0$ and $I_1 = X_1$ and $Z$ a standard normal. In the simplest case, $I_t$ may be a straight-line homotopy between $X_0$ and $X_1$.
 
-Let $\mu_t$ denote the law of $I_t$. This law can roughly be realized by two viewpoints:
+Let the measure $\mu_t$ denote the law of $I_t$. This law can roughly be realized by two viewpoints:
 
 # deterministic transport (Liouville) viewpoint
 
@@ -31,13 +31,15 @@ $$
 \frac{\d}{\d t}\leval_t \int \phi \d \mu_t = \frac{\d}{\d t}\leval_t \E[\phi(I_t)] = \E[\frac{\d}{\d t}\leval_t I_t \cdot \nabla \phi(I_t)] = \int \E[\frac{\d}{\d t}\leval_t I_t | I_t = x] \cdot \nabla \phi(x) \d \mu_t(x),
 $$
 
-which shows that the distributional derivative of $\mu_t$ is $\E[\frac{\d}{\d t}\leval_t I_t | I_t = x]$.
+which shows that the distributional derivative of $\mu_t$ is 
 
-Hence, with
+$$ \E[\frac{\d}{\d t}\leval_t I_t | I_t = x] $$
 
-$$ b_t(x) = \E[\frac{\d}{\d t}\leval_t I_t | I_t = x]$$
+Hence, by letting
 
-the law of $I_t$ and the law of $ X_t = b_t(X_t) \d t $ coincide.
+$$ b_t(x) = \E[\frac{\d}{\d t}\eval_t I_t | I_t = x],$$
+
+the law of $I_t$ and the law of the solution to $ X_t = b_t(X_t) \d t $ coincide, with initial condition $X_0 \sim \mu_0$.
 
 Further, it turns out that $b_t(x) = \text{argmin}_{\hat{b}_t} \E[ \abs{\hat{b}_t(I_t)}^2 - 2 \frac{\d}{\d t}\eval_t I_t \cdot \hat{b}_t(I_t) ]$, so $b_t(x)$ can be regressed by a deep neural network. 
 
@@ -46,7 +48,7 @@ Combined with numerical solution of
 $$ 
 \begin{equation}
 \label{liouville}
-X_t = b_t(X_t) \d t 
+X_t = b_t(X_t) \d t, \quad X_0 \sim \mu_0
 \end{equation}
 $$ 
 
@@ -55,7 +57,7 @@ this leads to a deterministic diffusion model.
 # stochastic viewpoint
 
 \eqref{liouville} is the particle version (Liouville equation) equivalent to the associated distributional transport equation $\partial_t \mu_t + \div_x(b_t \mu_t) = 0$.
-It also follows that $I_t$ solves certain SDEs. For, starting from the above transport equation, we can derive certain Fokker-Planck equations, which then give the corresponding SDEs.
+In fact $I_t$ also solves certain SDEs. For, starting from the above transport equation, we can derive certain Fokker-Planck equations, which then give the corresponding SDEs.
 
 The ingredients to show this are:
 
