@@ -43,7 +43,7 @@ $$ b_t(x) = \E[\frac{\d}{\d t}\eval_t I_t | I_t = x],$$
 
 the law of $I_t$ and the law of the solution to $ X_t = b_t(X_t) \d t, X_0 \sim \mu_0 $ coincide.
 
-Further, it turns out that $b_t(x) = \text{argmin}_{\hat{b}_t} \E[ \abs{\hat{b}_t(I_t)}^2 - 2 \frac{\d}{\d t}\eval_t I_t \cdot \hat{b}_t(I_t) ]$, so $b_t(x)$ can be regressed by a deep neural network. 
+Further, it turns out that $b_t = \text{argmin}_{\hat{b}_t} \E[ \abs{\hat{b}_t(I_t)}^2 - 2 \frac{\d}{\d t}\eval_t I_t \cdot \hat{b}_t(I_t) ]$, so $b_t(x)$ can be regressed by a deep neural network. 
 
 Combined with numerical solution of 
 
@@ -61,48 +61,60 @@ this leads to a deterministic diffusion model.
 \eqref{liouville} is the particle version (Liouville equation) equivalent to the associated distributional transport equation $\partial_t \mu_t + \div_x(b_t \mu_t) = 0$.
 In fact $I_t$ also solves certain SDEs. For, starting from the transport equation, we can derive certain Fokker-Planck equations, which then give the corresponding SDEs.
 
-The ingredients to show this are: for any test function $\phi$
-
-$$
-\E[\nabla \phi(I_t)] = \E[ \phi(I_t) \nabla(\log( \frac{\d \mu_t}{\d x} )) ]
-$$
-
-from which it follows that
-
-$$
-\nabla(\log(\frac{\d \mu_t}{\d x} )) = - \frac{\E[ Z | I_t = x ]}{\gamma_t} = s_t(x).
+Define the score function
+$$ 
+s_t(x) = \nabla(\log(\frac{\d \mu_t}{\d x} )).
 $$
 
-Finally, $\div_x(s_t \mu_t) = \Delta \mu_t$.
+The ingredients to derive the Fokker-Planck equations are: for any test function $\phi$, integration by parts implies
 
-By this it follows that $\mu_t$ solves for any continuous $\epsilon_t \ge 0$ the following two Fokker-Planck equations:
-
-First,
 $$
-\partial_t \mu_t + \div_x(b_t^F \mu_t) = \epsilon_t \Delta \mu_t
+\E[\nabla \phi(I_t)] = - \E[ \phi(I_t) \nabla(\log( \frac{\d \mu_t}{\d x} )) ]
 $$
 
-with $b_t^F(x) = b_t(x) + \epsilon_t s_t(x)$, which implies that $I_t$ solves
+and, similarly, for any standard normal random variable $Z$ we have $\E[g(Z) Z] = \E[\nabla_Z g(Z)]$.
+
+By these two facts we can then show that $\E[\phi(I_t) Z] = - \E[\phi(I_t) \gamma_t s_t]$, which, by a density argument and the definition of conditional expectations, implies that
+
+$$
+s_t(x) = - \frac{\E[ Z | I_t = x ]}{\gamma_t}.
+$$
+
+Finally, it follows that we have $\div_x(s_t \mu_t) = \Delta \mu_t$ in distributional sense.
+
+# the SDEs
+
+By this it follows that $\mu_t$ solves for any continuous function $\epsilon_t \ge 0$ the following two Fokker-Planck equations, and the corresponding SDEs:
+
+First, with $b_t^F(x) = b_t(x) + \epsilon_t s_t(x)$,
+
+$$
+\partial_t \mu_t + \div_x(b_t^F \mu_t) = \epsilon_t \Delta \mu_t,
+$$
+
+which implies that $I_t$ solves
 
 $$
 \d X_t = b_t^F(X_t) \d t + \sqrt{2 \epsilon_t} \d B_t
 $$
 with initial condition $I_0 \sim \mu_0$.
 
-Second,
+Second, with $b_t^R(x) = b_t(x) - \epsilon_t s_t(x)$,
+
 $$
-\partial_t \mu_t + \div_x(b_t^R \mu_t) = - \epsilon_t \Delta \mu_t
+\partial_t \mu_t + \div_x(b_t^R \mu_t) = - \epsilon_t \Delta \mu_t,
 $$
-with $b_t^R(x) = b_t(x) - \epsilon_t s_t(x)$, which implies that $I_t$ solves
+
+which implies that $I_t$ solves
 
 $$
 \d X_t = b_t^R(X_t) \d t + \sqrt{2 \epsilon_t} \d B_t
 $$
 with initial condition $I_1 \sim \mu_1$.
 
-# special case: $X_0 \sim \delta_0$
+# tbc. case: $X_0 \sim \delta_0$
 
-tbc. todo.
+for now open as todo:
 
 optimize $\epsilon_t$ for minimal estimation error
 
