@@ -3,7 +3,9 @@ title: "Diffusion models and stochastic interpolants"
 date: 2025-07-05
 ---
 
-Diffusion models seem to be the todays standard for photo and video generation. The idea is a simple sampling idea: given some training data, which represent samples from a latent probability distribution, we would like to draw new samples according to the underlying law. However, sampling directly from this unknown law is undoable. Instead, the idea is to generate samples from a known distribution, like a normal distribution (or even a Dirac), and suitably transform these samples to somehow obey the latent data distribution. The simple viewpoint adopted in [the paper of Song et al](https://arxiv.org/abs/2011.13456) is that putting data into an Ornstein-Uhlenbeck process converges to a normal distribution. This evolution can be reversed by another SDE, which needs the time-series of the densities of the OU process. A deep neural net is learned to represent this gradient of the logarithm of the time-series of the densities (aka "score function") in order to do this reversion computationally: transform samples of a normal distribution to samples of the training data distribution.
+Diffusion models seem to be the status quo for photo and video generation. I find diffusion models interesting, since they combine dynamics, probability and sampling. The idea is a simple sampling idea: we would like to draw new samples according to the underlying law of some training data. However, sampling directly from this unknown law is undoable. Instead, the idea is to generate samples from a known distribution, like a normal distribution (or even a Dirac), and suitably transform these samples to get the desired samples. 
+
+The viewpoint adopted in [the paper of Song et al](https://arxiv.org/abs/2011.13456) is that putting data into an Ornstein-Uhlenbeck process converges to a normal distribution. This evolution can be reversed by another SDE, which needs the time-series of the densities of the OU process. A deep neural net is learned to represent this gradient of the logarithm of the time-series of the densities (aka "score function") in order to do this reversion computationally: transform samples of a normal distribution to samples of the training data distribution.
 
 Essentially, it turns out that this viewpoint is in some sense a special case of a more general viewpoint. Namely, designing a suitable deterministic flow or stochastic flow that connects two probability distributions - deterministic in the sense of transport equation (Liouville equation) or stochastic in the sense of a suitable SDE. Such viewpoint is given in [the paper of Albergo et al](https://www.jmlr.org/papers/v26/23-1605.html), which I will follow below.
 
@@ -31,9 +33,13 @@ $$
 
 which shows that the distributional derivative of $\mu_t$ is $\E[\frac{\d}{\d t}\leval_t I_t | I_t = x]$.
 
-Hence, the law of $I_t$ and the law of $ X_t = b_t(X_t) \d t $ where $b_t(x) = \E[\frac{\d}{\d t}\leval_t I_t | I_t = x]$ coincide.
+Hence, with
 
-Further, it turns out that $b_t(x) = \text{argmin}_{\hat{b}_t} \E[ \abs{\hat{b}_t(I_t)}^2 - 2 \frac{\d}{\d t}\leval_t I_t \cdot \hat{b}_t(I_t) ]$. So $b_t(x)$ can be regressed by a deep neural network. 
+$$ b_t(x) = \E[\frac{\d}{\d t}\leval_t I_t | I_t = x]$$
+
+the law of $I_t$ and the law of $ X_t = b_t(X_t) \d t $ coincide.
+
+Further, it turns out that $b_t(x) = \text{argmin}_{\hat{b}_t} \E[ \abs{\hat{b}_t(I_t)}^2 - 2 \frac{\d}{\d t}\eval_t I_t \cdot \hat{b}_t(I_t) ]$, so $b_t(x)$ can be regressed by a deep neural network. 
 
 Combined with numerical solution of 
 
