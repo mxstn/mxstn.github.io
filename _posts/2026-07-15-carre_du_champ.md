@@ -16,7 +16,7 @@ $$
 
 \label{laplace_product}
 
-\Delta(f h) = f \Delta g + g \Delta f + 2 g(\nabla f, \nabla g),
+\Delta(f h) = f \Delta h + h \Delta f + 2 g(\nabla f, \nabla h),
 
 \end{equation}
 $$

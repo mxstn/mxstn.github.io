@@ -13,7 +13,7 @@ title: Alpinism
 
 Currently I am living in Innsbruck, Tyrol. I grew up in the bavarian alps, in Garmisch-Partenkirchen.
 
-I love the feeling of remoteness, roughness and adventure in the mountains. I enjoy planning alpine adventures and exploring less frequented routes. In winter I like to do ski-touring, in summer I enjoy ridge scrambling, alpine climbs and bike&hikes. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and navigation through pathless, alpine environment. Recently, I started paragliding.
+I love the feeling of remoteness, roughness and adventure in the mountains. I enjoy planning alpine adventures and exploring less frequented routes. In winter I enjoy ski-touring, in summer I enjoy ridge scrambling, alpine climbs and classical mountaineering. My strengths are fast movement in alpine, rocky terrain up to UIAA grade 4 and navigation through pathless, alpine environment. Recently, I started paragliding.
 
 <img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
 
