@@ -1,0 +1,287 @@
+## Wetterstein
+
+- Partenkirchner Dreitorspitz
+	- traverse (3-, solo by bike from Garmisch-P. in sub 8h round trip)
+- Hochblassen, Zugspitz
+	- Blassengrat (3) followed by Jubiläumsgrat (3-)
+	- Jubiläumsgrat (Zugspitz -> Alpspitz) sub 3h
+- Wettersteinwand, Musterstein
+	- traverse from Obere Wettersteinspitze "Wettersteingrat" (3)
+- Öfelekopf
+	- traverse from North-East face to West ridge (3)
+- Großer Waxenstein
+	- Nonnebruch/Schlagintweit (3, solo)
+	- traverse from Zwölferkopf (3, solo)
+- Hinterer Waxenstein
+	- traverse "Waxensteingrat" (3) from Gr. Waxenstein via Schönangerspitz, Riffelspitzen to Riffeltorkopf
+- Große Riffelwandspitz
+	- traverse via east-ridge from Kleine Riffelwandspitz to Zugspitz (4-)
+- Schüsselkar Westgratturm
+	- Siemens/Wolf with Phantasia entry (5-/5+)
+- Oberreintalschrofen
+	- traverse from East ridge to West (3)
+	- Oberreintalkar (ski)
+- Riffeltorkopf
+	- Ettl-Platte (5+)
+	- Maus, Tiger, Käfer (4+)
+- Höllentorkopf
+	- Nord-Kante (4)
+- Alpspitz
+	- Sonntagsausflug (5)
+	- Adamplatte (4-, solo)
+	- Nordwandxicht (6)
+	- Nebelpartie (6-)
+	- new years eve bivy on top
+- Zugspitz
+	- Jubiläumsgrat (3-) four times, twice solo
+	
+- Leutascher Dreitorspitz (ski)
+- Kämikopf, Kämitor, Schachentor (ski)
+- Teufelskopf
+- Hinterreintalschrofen
+- Hochwanner
+- Arnspitzen
+	- traverse (3-)
+	
+		
+## Mieminger Kette
+
+- Wampeter Schrofen
+	- North ridge (solo)
+- Hohe Wand
+	- East ridge from Karkopf (3, solo)
+- Grünstein 
+	- Eeast ridge traverse
+- Tajakopf
+	- Drachentanz (6)
+- Drachenkopf
+	- Walk to paradise (5)
+- Ehrwalder Sonnenspitz
+- Wannig (ski)
+- Igelskopf Hüttenrinne (ski)
+
+
+## Karwendel
+
+- Vordere/Hintere Brandjochspitz
+	- South ridge (3-, solo, round trip from Innsbruck in 5.5h)
+- Hohe Warte
+	- South ridge (4)
+- Kleiner Solstein
+	- East ridge (3, solo)
+- Lamsenspitz
+	- Nord-Ost Kante (4+)
+- Hintere Bachofenspitze
+	- traverse from Stempeljochspitz via Roßkopf (3) (from Innsbruck by bike in 10h round trip)
+- Fiechter Spitz
+	- traverse to Mittagsspitz, Schneekopf (3)
+- Großer Bettelwurf
+	- Osteck (3)
+	- Normalweg from Innsbruck by bike in 7h round trip
+-  Fallbachkarspitz 
+	- South ridge (3, solo)
+- Kreuzwand
+	- East ridge (3)
+	- MaMa Kante (5)
+	- Joe Muff (4+)
+- Koflerturm
+	- South-west ridge (5+)
+- Gerberkreuz
+	- South-west ridge (4)
+	
+- Kaltwasserkarspitz (by bike from Garmisch-P.)
+- Große Seekarspitz (ski)
+- Pleisenspitz (ski)
+- Freiungspitzen (ski)
+- Erlscharte (ski)
+- Seefelder Spitz (ski)
+- Kemacher (ski)
+- Grubenkarspitz
+- Ödkarspitzen
+- Birkkarspitzen
+- Östl. Karwendelspitz
+- Pfeiserspitz traverse
+- Rotwandlspitz - Westl. Karwendelspitz traverse
+- Erlspitz
+- Kuhljochspitz
+- Wörner
+- Soiernspitz (traverse from Seinskopf)
+- Kaskarspitz
+- Sattelspitzen
+- Reither Spitz
+- Rumer Spitz (traverse), Gleirschtaler Brandjoch, Mandlspitz
+
+
+## Zillertaler Alpen
+
+- Turnerkamp
+	- South ridge (5)
+- Großer Möseler
+	- South ridge (3) via Möselekopf
+- Gigalitz
+	- Gigalitzturm South-east (5-)
+- Hoher Weißzint
+	- East ridge (3) from lake Neves
+- Olperer 
+	- North ridge (3-, ski)
+- Großer Kaserer traverse (ski)
+- Reichenspitze (ski)
+- Fußstein 
+	- West ridge "Hüttengrat" (4)
+
+
+## Hohe Tauern
+
+- Großvenediger
+	- North ridge (4-) with fresh snow in autumn
+- Westl. Simonyspitz (ski)
+- Großer Geiger (ski)
+
+
+## Ötztaler Alpen
+
+- Watzespitz
+	- East ridge (4) roundtrip from Plangeross in 11h total
+- Verpeilspitz
+	- North ridge (4) roundtrip from Verpeilalm carpark in 9.5h total
+- Rofelewand (ski)
+- Hochfirst (ski)
+- Liebenerspitz (ski)
+- Granatenkogel (ski)
+- Königskogel west couloir (ski)
+- Wildspitz 
+	- bike&ski from Mandarfen
+	- Jubiläumsgrat (north-east ridge) traverse
+- Hinterer Brochkogel (ski)
+
+
+## Bündner Alpen
+
+- Cima dal Cantun
+	- traverse via Caciadur, Scälin (3)
+- Piz Balzet
+	- South ridge (4+)
+- Piz Bernina
+	- Bianco ridge (3)
+- Piz Palü 
+	- traverse
+	
+	
+## Ortleralpen
+
+- Ortler
+	- Hintergrat (4) from Sulden in fresh autumn snow
+- Cevedale, Nördl. Zufallspitz (ski)
+- Cima Marmotta (ski)
+- Madritschspitz (ski) 
+- Butzenspitz (ski)
+
+
+## Silvretta and Verwall
+
+- Großlitzner, Großes Seehorn
+	- traverse (4)
+- Blankahorn 
+	- West ridge (3, solo)
+- Hoher Riffler
+- Dreiländerspitze (ski)
+- Mittlerer Chalauskopf north couloir (ski)
+- Patteriol
+	- North-east ridge (4)
+- Schneeglocke
+
+
+## Stubaier Alpen
+
+- Wilde Leck 
+	- East ridge (4) from Gries by bike
+- Habicht 
+	- by bike from Innsbruck in 10h round trip
+	- by ski from north
+- Lisener Fernerkogel
+	- North ridge (3-) solo up and down
+	- by ski via east gully
+- Peider Spitz
+	- Norh ridge via Schlossköpfe (3, solo)
+	- East ridge
+- Acherkogel
+	- North-east ridge (4) up and down
+- Riepenwand
+	- North ridge (3-)
+- Wilder Freiger
+	- traverse from Aperer Freiger, solo
+- Gänsekragen
+	- East ridge (3+, solo) roundtrip from Gries in 4h
+- Vordere Sommerwand north ridge (3, solo)
+- Zuckerhütl (ski)
+- Ruderhofspitz (ski from south)
+- Hinterer Brunnenkogel (ski)
+- Wörgegratspitz (ski)
+- Serles, Lämpermahdspitz, Kesselspitz from Kappl
+- Kirchdachspitz, Hammerspitz, Wasenwand by bike from Steinach
+- Kesselspitz (ski)
+- Nockspitz 
+	- North couloir (ski, solo)
+	- West couloir (ski, solo)
+- Marchreisenspitz (ski)
+- Ampferstein (ski)
+- Hochtennspitz
+- Angerbergkopf (ski)
+- Rinnenspitz
+- Lisener Villerspitz
+- Lisener Fernerkogel (ski)
+- Zischgeles (ski)
+- Lisener Spitz (ski)
+- Längentaler Weißer Kogel (ski)
+- Schöntalspitz (ski)
+- Windegg (ski)
+- Roter Kogel, Auf Sömen
+- Lampsenspitz (ski)
+- Zwieselbacher Rosskogel north gully (ski)
+- Haidenspitz (ski)
+- Rosskogel (ski)
+- Rietzer Grießkogel (ski)
+- Pirchkogel (ski)
+- Obernberger Tribulaun, Schwarze Wand in fresh autumn snow
+- Wetterkreuz (ski)
+- Hoher Lorenzen (ski)
+- Hohe Kreuzspitze (ski)
+- Finstertaler Schartenkopf, Gamskögele south-east (ski), 
+- Kraspesspitze north-west couloir (ski)
+
+
+## Tuxer Alpen
+
+- Hirzer (ski)
+- Wildofen (ski)
+- Poverer Jöchl (ski)
+- Grafennsspitz (ski)
+- Naviser Sonnenspitz
+- Naviser Kreuzjöchl (ski)
+- Pfoner Kreuzjöchl (ski)
+- Grünbergspitz (bike&ski from Innsbruck)
+- Rosenjoch, Kreuzspitz (ski)
+- Glungezer (ski)
+- Morgenkogel (ski, north-east)
+- Viggarspitz, Neunerspitz
+- Gilfert (ski)
+- Haneburger (traverse from Volders by bike)
+- Tarntaler Köpfe by bike from Matrei
+- Lizumer Reckner and Lizumer Sonnenspitz
+- Hohe Warte
+- Bendelstein
+- Vennspitz
+- Hippoldspitz
+- Rosskopf (ski)
+- Pfaffenbichl (ski)
+- Poverer Hippold (ski)
+
+
+## Lechtaler Alpen
+
+- Thaneller north couloir (ski)
+- Namloser Wetterspitz (ski)
+- Suwaldspitzen (ski)
+- Engelspitzen (ski)
+- Tschachaun (ski)
+
