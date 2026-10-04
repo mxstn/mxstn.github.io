@@ -10,7 +10,7 @@ I am a mathematician, mountain enthusiast and research engineer.
 
 - as a mountain enthusiast, I like alpinism and enjoy being outside with friends, mostly [mountaineering, climbing and ski-touring](https://mxstn.github.io/mountains),
 
-- finally, in my current job as research engineer at MED-EL, I am interested in prototyping and simulations with python and surrounding tools, statistics and developments in machine learning.
+- finally, in my current job as research engineer, I am interested in prototyping and simulations with python and developments in machine learning.
 
 Besides that, I am a music lover; I enjoy playing guitar, attending concerts, and most recently dancing Lindy Hop :) And finally, I think it’s fair to say (with minimal bias) that "Breaking into heaven" by the Stone Roses is among the best songs ever made.
 
@@ -18,7 +18,7 @@ Besides that, I am a music lover; I enjoy playing guitar, attending concerts, an
 
 # Mathematics
 
-My mathematical research for my dissertation is mainly concerned with singularities in differential equations with two time-scales. More specifically, I employ geometric methods to analyze dynamics near such singularities. However, I have a broad interest in the interplay between geometry, dynamics and probability. I wrote my BSc thesis about the De Rham cohomology of Lie groups and Lie algebras. In my MSc thesis, I started to build a singularity theory for distributions (generalized functions). In 2026, I submitted my dissertation at Technical University of Munich (TUM); my main supervisor is [Christian Kuehn](https://multiscale.systems) and my co-supervisor is [Hildeberto Jardón-Kojakhmetov](https://hildejk.xyz). To get a glimpse of my mathematical research check out [my paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
+My mathematical research is mainly concerned with the geometric study of singularities in fast-slow vector fields, meaning differential equations with two time-scales. More specifically, I employed geometric methods to classify and analyze dynamics near such singularities. However, I have a broad interest in the interplay between geometry, dynamics and probability. I wrote my BSc thesis about the De Rham cohomology of Lie groups and Lie algebras. In my MSc thesis, I started to build a singularity theory for distributions (generalized functions). In 2026, I defended my dissertation "Singularities of higher codimension in fast-slow vector fields with fast gradient dynamics" at Technical University of Munich (TUM); my main supervisor is [Christian Kuehn](https://multiscale.systems) and my co-supervisor is [Hildeberto Jardón-Kojakhmetov](https://hildejk.xyz). To get a glimpse of my mathematical research check out [my paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
 
 &nbsp;
 
