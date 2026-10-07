@@ -1,3 +1,9 @@
+---
+permalink: /logbook
+layout: page
+title: Logbook
+---
+
 ## Wetterstein
 
 - Partenkirchner Dreitorspitz
