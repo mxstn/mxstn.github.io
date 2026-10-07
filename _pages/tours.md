@@ -202,7 +202,7 @@
 	- North ridge (3-) solo up and down
 	- by ski via east gully
 - Peider Spitz
-	- Norh ridge via Schlossköpfe (3, solo)
+	- North ridge via Schlossköpfe (3, solo)
 	- East ridge
 - Acherkogel
 	- North-east ridge (4) up and down

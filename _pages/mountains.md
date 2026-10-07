@@ -19,7 +19,8 @@ I love the feeling of remoteness, roughness and adventure in the mountains. I en
   <img src="../assets/img/alpinism/ski3.jpg" style="max-width: 25.8%; height: auto;" oncontextmenu="return false;"/>
 </div>
 
-I grew up in the bavarian alps, in Garmisch-Partenkirchen. Currently I am living in Innsbruck, Tyrol. I am grateful for all the amazing times I could share with friends in the mountains :) 
+I grew up in the bavarian alps, in Garmisch-Partenkirchen. Currently I am living in Innsbruck, Tyrol. 
+I am grateful for all the amazing times I could share with friends in the mountains :) <a href="tours">Here</a> I try to roughly keep track. Of course the todo list is of similar size ;)
 
 <img src="../assets/img/21_08_11.jpg" alt="me" width="100%" oncontextmenu="return false;"/>
 
