@@ -4,6 +4,8 @@ layout: page
 title: Logbook
 ---
 
+In this logbook I try to keep track of major outings. Certainly it is incomplete.
+
 ## Wetterstein
 
 - Partenkirchner Dreitorspitz
@@ -84,7 +86,7 @@ title: Logbook
 - Großer Bettelwurf
 	- Osteck (3)
 	- Normalweg from Innsbruck by bike in 7h round trip
--  Fallbachkarspitz 
+- Fallbachkarspitz 
 	- South ridge (3, solo)
 - Kreuzwand
 	- East ridge (3)
@@ -97,7 +99,7 @@ title: Logbook
 	
 - Kaltwasserkarspitz (by bike from Garmisch-P.)
 - Große Seekarspitz (ski)
-- Pleisenspitz (ski)
+- Pleisenspitz south-west face (ski)
 - Freiungspitzen (ski)
 - Erlscharte (ski)
 - Seefelder Spitz (ski)
