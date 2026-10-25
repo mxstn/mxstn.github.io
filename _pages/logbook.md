@@ -4,7 +4,7 @@ layout: page
 title: Logbook
 ---
 
-In this logbook I try to keep track of major outings. Certainly it is incomplete.
+Here I try to keep track of major outings. Certainly the following list is incomplete.
 
 ## Wetterstein
 
@@ -252,9 +252,10 @@ In this logbook I try to keep track of major outings. Certainly it is incomplete
 - Pirchkogel (ski)
 - Obernberger Tribulaun, Schwarze Wand in fresh autumn snow
 - Wetterkreuz (ski)
-- Hoher Lorenzen (ski)
+- Allerleigrubenspitze, Hoher Lorenzen (ski)
 - Hohe Kreuzspitze (ski)
-- Finstertaler Schartenkopf, Gamskögele south-east (ski), 
+- Finstertaler Schartenkopf (ski)
+- Gamskögele south-east (ski)
 - Kraspesspitze north-west couloir (ski)
 
 
@@ -283,6 +284,7 @@ In this logbook I try to keep track of major outings. Certainly it is incomplete
 - Rosskopf (ski)
 - Pfaffenbichl (ski)
 - Poverer Hippold (ski)
+- Hoher Napf (ski)
 
 
 ## Lechtaler Alpen
@@ -292,4 +294,22 @@ In this logbook I try to keep track of major outings. Certainly it is incomplete
 - Suwaldspitzen (ski)
 - Engelspitzen (ski)
 - Tschachaun (ski)
+
+
+## et al
+
+- Monte Cinto (Corse)
+- Hermannsdalstinden (Lofoten)
+- Kitinden (Lofoten)
+- Helvete - Reinebringen (Lofoten)
+- Volandstinden (Lofoten)
+- Moltinden (Lofoten)
+- Fløya (Lofoten)
+- Kaimaktsalan (Greece)
+- Profitis Ilias (Karpathos)
+- Koryfi (Karpathos)
+- Chrdili (Georgia, ski)
+- Bidara (Georgia, ski)
+- Baegundae (South Korea)
+
 
