@@ -296,6 +296,11 @@ Here I try to keep track of major outings. Certainly the following list is incom
 - Tschachaun (ski)
 
 
+## Maritime Alps
+
+- Cima di Collalunga (ski)
+
+
 ## et al
 
 - Monte Cinto (Corse)
