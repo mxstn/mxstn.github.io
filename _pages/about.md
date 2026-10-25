@@ -10,7 +10,7 @@ I am a mathematician, mountain enthusiast and research engineer.
 
 - as a mountain enthusiast, I like alpinism and enjoy being outside with friends, mostly [mountaineering, climbing and ski-touring](https://mxstn.github.io/mountains),
 
-- finally, in my current job as research engineer, I am interested in prototyping and simulations with python and developments in machine learning.
+- finally, in my current job as research engineer, I am interested in prototyping and simulations with python alongside probabilistic and geometric concepts in machine learning.
 
 Besides that, I am a music lover; I enjoy playing guitar, attending concerts, and most recently dancing Lindy Hop :) And finally, I think it’s fair to say (with minimal bias) that "Breaking into heaven" by the Stone Roses is among the best songs ever made.
 
