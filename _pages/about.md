@@ -20,17 +20,20 @@ Besides that, I am a music lover; I enjoy playing guitar, attending concerts, an
 
 My mathematical research is mainly concerned with the geometric study of fast-slow vector fields near singularities of higher codimension. More specifically, I employed geometric methods to classify singularities and analyze nearby dynamics. My work was affiliated with the [DFG project "Geometrische Desingularisierung von Singularitäten höherer Kodimension in schnell-langsamen Systemen"](https://gepris.dfg.de/project/444753754). Fast-slow vector fields are closely related to singular perturbation problems, which appear in many applications such as neuroscience, climate dynamics and control theory.
 
-Moreover, I have a broad interest in geometry, dynamics and probability. I wrote my BSc thesis about the De Rham cohomology of Lie groups and Lie algebras. In my MSc thesis, I started to build a singularity theory for distributions (generalized functions). In 2026, I defended my dissertation "Singularities of higher codimension in fast-slow vector fields with fast gradient dynamics" at Technical University of Munich (TUM); my main supervisor is [Christian Kuehn](https://multiscale.systems) and my co-supervisor is [Hildeberto Jardón-Kojakhmetov](https://hildejk.xyz). To get a glimpse of my mathematical research, check out [the paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
+Moreover, I have a broad interest in geometry, dynamics and probability. I wrote my BSc thesis about the De Rham cohomology of Lie groups and Lie algebras. In my MSc thesis, I started to build a singularity theory for distributions (generalized functions). In 2026, I defended [my dissertation "Singularities of higher codimension in fast-slow vector fields with fast gradient dynamics"](https://mediatum.ub.tum.de/?id=1864092) at Technical University of Munich (TUM); my main supervisor is [Christian Kuehn](https://multiscale.systems) and my co-supervisor is [Hildeberto Jardón-Kojakhmetov](https://hildejk.xyz). To get a glimpse of my mathematical research, check out [the paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
 
 &nbsp;
 
 # Short CV
 
 <div class="cv">
+  <div class="year">2026</div>
+  <div class="content">Dr. rer. nat. (~PhD) Mathematics, Technical University of Munich (TUM)<br>
+	   Dissertation: <a href="https://mediatum.ub.tum.de/?id=1864092" target="_blank">"Singularities of higher codimension in fast-slow vector fields with fast gradient dynamics"</a> </div>
+	
   <div class="year">since 2023</div>
   <div class="content">Research Engineer at <a href="https://www.medel.com" target="_blank">
 	      MED-EL,</a> R&D department, Innsbruck</div>
-  
 
   <div class="year">2020–2022</div>
   <div class="content">Doctoral Researcher, Technical University of Munich (TUM)<br>
