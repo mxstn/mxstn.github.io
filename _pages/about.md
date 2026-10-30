@@ -37,7 +37,7 @@ Moreover, I have a broad interest in geometry, dynamics and probability. I wrote
 
   <div class="year">2020–2022</div>
   <div class="content">Doctoral Researcher, Technical University of Munich (TUM)<br>
-	  "Singularities of higher codimension in fast-slow vector fields with fast gradient dynamics"<br>
+	  <a href="https://gepris.dfg.de/project/444753754" target="_blank">as part of a DFG project</a><br>
 	  supervised by 
 	    <a href="https://multiscale.systems" target="_blank">
 	      Christian Kuehn (multiscale and stochastic dynamics group at TUM)
