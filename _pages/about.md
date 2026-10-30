@@ -37,14 +37,10 @@ Moreover, I have a broad interest in geometry, dynamics and probability. I wrote
 
   <div class="year">2020–2022</div>
   <div class="content">Doctoral Researcher, Technical University of Munich (TUM)<br>
-	  <a href="https://gepris.dfg.de/project/444753754" target="_blank">as part of a DFG project</a><br>
-	  supervised by 
-	    <a href="https://multiscale.systems" target="_blank">
-	      Christian Kuehn (multiscale and stochastic dynamics group at TUM)
-	    </a><br>
-	    co-supervised by 
-	    <a href="https://hildejk.xyz" target="_blank">
-	      Hildeberto Jardón-Kojakhmetov (dynamical systems group at RUG, University of Groningen)
+	  <a href="https://gepris.dfg.de/project/444753754" target="_blank">DFG project</a> with <a href="https://multiscale.systems" target="_blank">
+	      Christian Kuehn
+	    </a> and <a href="https://hildejk.xyz" target="_blank">
+	      Hildeberto Jardón-Kojakhmetov
 	    </a>
   </div>
   
