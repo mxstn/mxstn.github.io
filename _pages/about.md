@@ -8,7 +8,7 @@ I am a mathematician, mountain enthusiast and research engineer.
 
 - Mathematically, I am broadly interested in geometry, dynamics, probability and their interactions,
 
-- as a mountain enthusiast, I enjoy alpinism and being outside with friends, mostly [mountaineering, climbing and ski-touring](https://mxstn.github.io/mountains),
+- as a mountain enthusiast, I enjoy alpinism and being outside with friends, mostly [mountaineering, climbing and ski-touring](https://mxstn.github.io/mountains);
 
 - finally, in my current job as research engineer, I am interested in prototyping and simulations with python alongside probabilistic and geometric concepts in machine learning.
 
@@ -16,13 +16,6 @@ Besides that, I am a music lover; I enjoy playing guitar, attending concerts, an
 
 &nbsp;
 
-# Mathematics
-
-My mathematical research is mainly concerned with the geometric study of fast-slow vector fields near singularities of higher codimension. More specifically, I employed geometric methods to classify singularities and analyze nearby dynamics. My work was affiliated with the [DFG project "Geometrische Desingularisierung von Singularitäten höherer Kodimension in schnell-langsamen Systemen"](https://gepris.dfg.de/project/444753754). Fast-slow vector fields are closely related to singular perturbation problems, which appear in many applications such as neuroscience, climate dynamics and control theory.
-
-Moreover, I have a broad interest in geometry, dynamics and probability. I wrote my BSc thesis about the De Rham cohomology of Lie groups and Lie algebras. In my MSc thesis, I started to build a singularity theory for distributions (generalized functions). In 2026, I defended [my dissertation "Singularities of higher codimension in fast-slow vector fields with fast gradient dynamics"](https://mediatum.ub.tum.de/?id=1864092) at Technical University of Munich (TUM); my main supervisor is [Christian Kuehn](https://multiscale.systems) and my co-supervisor is [Hildeberto Jardón-Kojakhmetov](https://hildejk.xyz). Also check out [the paper "the hyperbolic umbilic singularity in fast-slow systems"](https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde).
-
-&nbsp;
 
 # Short CV
 
