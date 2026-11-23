@@ -22,7 +22,7 @@ Besides that, I am a music lover; I enjoy playing guitar, attending concerts, an
 <div class="cv">
   <div class="year">2026</div>
   <div class="content">Dr. rer. nat. (~PhD) Mathematics, Technical University of Munich (TUM)<br>
-	   <a href="https://mediatum.ub.tum.de/?id=1864092" target="_blank">"Singularities of higher codimension in fast-slow vector fields with fast gradient dynamics"</a> supervised by <a href="https://multiscale.systems"target="_blank">Christian Kuehn</a> and <a href="https://hildejk.xyz" target="_blank">Hildeberto Jardón-Kojakhmetov</a> </div>
+	   <a href="https://mediatum.ub.tum.de/?id=1864092" target="_blank">"Singularities of higher codimension in fast-slow vector fields with fast gradient dynamics"</a> supervised by <a href="https://multiscale.systems" target="_blank">Christian Kuehn</a> and <a href="https://hildejk.xyz" target="_blank">Hildeberto Jardón-Kojakhmetov</a> </div>
 	
   <div class="year">since 2023</div>
   <div class="content">Research Engineer at <a href="https://www.medel.com" target="_blank">
